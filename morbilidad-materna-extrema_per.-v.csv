@@ -1,223 +1,223 @@
 codigo_sspd;fecha_notificacion;cod_divipola;ciudad;dpto;edad;sexo;nacionalidad;tipo_seguridad_social;per_etn_;estrato;fec_con_;paciente_hospitalizado;num_gestac;no_con_pre;term_gesta;dias_hospi;causa_agrupada;fecha_corte;fecha_reporte_web
-249202300001;02-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;29-dic-2022;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300001;02-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;29-dic-2022;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300002;07-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;06-mar-2023;Si;Primigestante;4 a 6;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300003;03-mar-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;2;02-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300004;27-abr-2023;76001;Cali;Valle del cauca;40;F;Colombia;Subsidiado;Otro;1;24-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;4;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300005;28-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;27-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300006;05-abr-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300007;10-ene-2023;76001;Cali;Valle del cauca;43;F;Colombia;Excepcion;Otro;3;05-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;30;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300008;05-may-2023;76001;Cali;Valle del cauca;40;F;Colombia;Excepcion;Otro;2;04-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300009;14-feb-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300010;29-abr-2023;76001;Cali;Valle del cauca;44;F;Colombia;Contributivo;Otro;3;28-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300011;06-may-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Continua embarazada;5;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300012;24-feb-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;4;23-feb-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300013;02-feb-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;01-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300014;28-mar-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;25-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300015;13-mar-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;1;11-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300016;12-may-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300017;27-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;1;27-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300018;16-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;3;15-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;1;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300019;22-may-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;20-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300020;13-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;3;09-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300003;03-mar-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;2;02-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300004;27-abr-2023;76001;Cali;Valle del cauca;40;F;Colombia;Subsidiado;Otro;1;24-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;4;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300005;28-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;27-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300006;05-abr-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300007;10-ene-2023;76001;Cali;Valle del cauca;43;F;Colombia;Excepcion;Otro;3;05-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;30;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300008;05-may-2023;76001;Cali;Valle del cauca;40;F;Colombia;Excepcion;Otro;2;04-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300009;14-feb-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300010;29-abr-2023;76001;Cali;Valle del cauca;44;F;Colombia;Contributivo;Otro;3;28-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300011;06-may-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Continua embarazada;5;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300012;24-feb-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;4;23-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300013;02-feb-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;01-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300014;28-mar-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;25-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300015;13-mar-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;1;11-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300016;12-may-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300017;27-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;1;27-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300018;16-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;3;15-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;1;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300019;22-may-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;20-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300020;13-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;3;09-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300021;24-mar-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;23-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;14;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300022;11-may-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;;09-may-2023;Si;Primigestante;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300023;24-abr-2023;76001;Cali;Valle del cauca;44;F;Colombia;Subsidiado;Otro;1;23-abr-2023;Si;Gran multípara (6 o más gestaciones);ninguno;Aborto;2;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300024;10-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;3;10-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300025;05-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Aafro colombiano;2;04-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300026;17-may-2023;76001;Cali;Valle del cauca;43;F;Colombia;Subsidiado;Otro;2;16-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300027;27-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;3;26-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300023;24-abr-2023;76001;Cali;Valle del cauca;44;F;Colombia;Subsidiado;Otro;1;23-abr-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);ninguno;Aborto;2;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300024;10-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;3;10-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300025;05-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Aafro colombiano;2;04-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300026;17-may-2023;76001;Cali;Valle del cauca;43;F;Colombia;Subsidiado;Otro;2;16-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300027;27-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;3;26-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300028;18-mar-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;4;17-mar-2023;Si;Primigestante;1 a 3;Cesarea;2;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300029;16-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Subsidiado;Otro;2;15-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;29;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300030;18-abr-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;16-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300029;16-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Subsidiado;Otro;2;15-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;29;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300030;18-abr-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;16-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300031;22-ene-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;3;21-ene-2023;Si;Primigestante;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300032;09-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Subsidiado;Otro;2;08-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300033;14-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;4;13-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Otra causa;20-may-2023;06-jun-2023
-249202300034;17-abr-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;2;17-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300035;08-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;2;08-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300036;17-ene-2023;76001;Cali;Valle del cauca;42;F;Colombia;Subsidiado;Otro;2;16-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300037;06-feb-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;2;06-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300032;09-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Subsidiado;Otro;2;08-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300033;14-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;4;13-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Otra causa;20-may-2023;06-jun-2023
+249202300034;17-abr-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;2;17-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300035;08-mar-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;2;08-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300036;17-ene-2023;76001;Cali;Valle del cauca;42;F;Colombia;Subsidiado;Otro;2;16-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300037;06-feb-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;2;06-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300038;05-abr-2023;76001;Cali;Valle del cauca;41;F;Colombia;Contributivo;Otro;3;04-abr-2023;Si;Primigestante;ninguno;Aborto;21;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
-249202300039;13-mar-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;;12-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300040;25-abr-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;3;24-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300041;18-may-2023;76001;Cali;Valle del cauca;44;F;Colombia;Subsidiado;Otro;1;17-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300042;20-abr-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;20-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300043;17-mar-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;5;15-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300044;14-feb-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300045;09-abr-2023;76001;Cali;Valle del cauca;38;F;Colombia;Subsidiado;Otro;2;09-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300046;21-ene-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;20-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300047;29-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Excepcion;Otro;2;28-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300039;13-mar-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;;12-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300040;25-abr-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;3;24-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300041;18-may-2023;76001;Cali;Valle del cauca;44;F;Colombia;Subsidiado;Otro;1;17-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300042;20-abr-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;20-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300043;17-mar-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;5;15-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300044;14-feb-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300045;09-abr-2023;76001;Cali;Valle del cauca;38;F;Colombia;Subsidiado;Otro;2;09-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300046;21-ene-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;3;20-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300047;29-ene-2023;76001;Cali;Valle del cauca;39;F;Colombia;Excepcion;Otro;2;28-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300048;02-feb-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;01-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300049;02-feb-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;5;01-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300050;05-ene-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;2;04-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300051;07-mar-2023;76001;Cali;Valle del cauca;42;F;Colombia;Subsidiado;Otro;2;07-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300052;18-feb-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;17-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300053;02-may-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;30-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300049;02-feb-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;5;01-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300050;05-ene-2023;76001;Cali;Valle del cauca;42;F;Colombia;Contributivo;Otro;2;04-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300051;07-mar-2023;76001;Cali;Valle del cauca;42;F;Colombia;Subsidiado;Otro;2;07-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300052;18-feb-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;17-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300053;02-may-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;2;30-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300054;13-mar-2023;76001;Cali;Valle del cauca;47;F;Colombia;Contributivo;Otro;;06-mar-2023;Si;Primigestante;7 a 9;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300055;08-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;2;08-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300055;08-feb-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;2;08-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300056;03-may-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;Primigestante;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300057;11-may-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;4;09-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300057;11-may-2023;76001;Cali;Valle del cauca;38;F;Colombia;Contributivo;Otro;4;09-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300058;23-may-2023;76001;Cali;Valle del cauca;40;F;Colombia;Contributivo;Otro;6;22-may-2023;Si;Primigestante;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300059;11-mar-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;3;10-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300060;04-abr-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;4;04-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300061;25-feb-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Aafro colombiano;3;24-feb-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300062;11-abr-2023;76001;Cali;Valle del cauca;38;F;Colombia;Subsidiado;Otro;1;11-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;11;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300063;05-may-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300064;20-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Aafro colombiano;2;20-ene-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300065;21-ene-2023;76001;Cali;Valle del cauca;38;F;Colombia;Subsidiado;Otro;3;20-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300066;06-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;5;01-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300059;11-mar-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;3;10-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300060;04-abr-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;4;04-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300061;25-feb-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Aafro colombiano;3;24-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300062;11-abr-2023;76001;Cali;Valle del cauca;38;F;Colombia;Subsidiado;Otro;1;11-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;11;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300063;05-may-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300064;20-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Aafro colombiano;2;20-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300065;21-ene-2023;76001;Cali;Valle del cauca;38;F;Colombia;Subsidiado;Otro;3;20-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300066;06-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;5;01-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300067;14-abr-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;13-abr-2023;Si;Primigestante;4 a 6;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300068;26-feb-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;25-feb-2023;Si;Primigestante;4 a 6;Parto;7;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300069;24-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;24-mar-2023;Si;Gran multípara (6 o más gestaciones);ninguno;Cesarea;9;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300069;24-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;24-mar-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);ninguno;Cesarea;9;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300070;17-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;17-ene-2023;Si;Primigestante;ninguno;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300071;03-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;1;31-dic-2022;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300072;11-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;Gran multípara (6 o más gestaciones);4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300073;09-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;09-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300071;03-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;1;31-dic-2022;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300072;11-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300073;09-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;09-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300074;20-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;20-mar-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300075;11-abr-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Aafro colombiano;1;31-ene-2023;Si;Primigestante;7 a 9;Parto;0;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
 249202300076;14-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;3;13-mar-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300077;28-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;27-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300077;28-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;27-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300078;24-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;23-ene-2023;Si;Primigestante;ninguno;Aborto;7;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300079;25-ene-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;1;25-ene-2023;Si;Primigestante;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300080;23-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;4;20-may-2023;Si;Primigestante;1 a 3;Aborto;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300081;20-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;3;19-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300082;24-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;3;22-abr-2023;Si;Primigestante;> de 10;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300083;28-feb-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;28-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300084;08-may-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;2;06-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300085;02-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;02-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300086;23-feb-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;23-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300084;08-may-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;2;06-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300085;02-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;02-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300086;23-feb-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;23-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300087;10-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;08-ene-2023;Si;Primigestante;4 a 6;Aborto;18;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300088;07-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;31-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Otra causa;20-may-2023;06-jun-2023
+249202300088;07-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;31-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Otra causa;20-may-2023;06-jun-2023
 249202300089;26-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;25-mar-2023;Si;Primigestante;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300090;22-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Aafro colombiano;1;01-ene-2023;No;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;0;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300090;22-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Aafro colombiano;1;01-ene-2023;No;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;0;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300091;06-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Subsidiado;Aafro colombiano;1;03-ene-2023;Si;Primigestante;> de 10;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300092;26-abr-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;25-abr-2023;Si;Primigestante;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300093;10-mar-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;2;10-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300094;25-abr-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;24-abr-2023;Si;Primigestante;7 a 9;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300095;06-may-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;3;03-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300095;06-may-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;3;03-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300096;02-ene-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;Primigestante;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300097;09-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;08-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300097;09-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;08-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300098;19-abr-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;3;18-mar-2023;Si;Primigestante;ninguno;Parto;44;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300099;21-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;21-ene-2023;Si;Primigestante;> de 10;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300100;27-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;27-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300101;05-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;;04-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
+249202300100;27-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;27-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300101;05-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;;04-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
 249202300102;29-ene-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;28-ene-2023;Si;Primigestante;1 a 3;Continua embarazada;2;Sepsis de origen pulmonar;20-may-2023;06-jun-2023
 249202300103;17-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;3;16-feb-2023;Si;Primigestante;> de 10;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300104;30-abr-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;3;30-abr-2023;Si;Primigestante;7 a 9;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300105;14-may-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;13-may-2023;Si;Primigestante;1 a 3;Continua embarazada;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300106;10-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;10-mar-2023;Si;Primigestante;1 a 3;Continua embarazada;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300107;24-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;3;23-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300107;24-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;3;23-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300108;16-ene-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;16-ene-2023;Si;Primigestante;7 a 9;Cesarea;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300109;06-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;1;04-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300110;15-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300111;06-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;05-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Aborto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300109;06-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;1;04-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300110;15-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300111;06-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;05-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Aborto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300112;27-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;26-feb-2023;Si;Primigestante;1 a 3;Cesarea;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300113;02-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;02-feb-2023;Si;Primigestante;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300114;31-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;29-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300114;31-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;29-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300115;18-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;4;17-ene-2023;Si;Primigestante;7 a 9;Cesarea;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300116;03-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;1;03-feb-2023;Si;Primigestante;> de 10;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300117;18-may-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Aafro colombiano;1;18-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300118;23-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;22-feb-2023;Si;Primigestante;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300119;07-may-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;06-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;9;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300120;12-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;11-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300121;05-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300119;07-may-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;06-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;9;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300120;12-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;11-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300121;05-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300122;07-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;07-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300123;24-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Otro;6;24-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300123;24-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Otro;6;24-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300124;10-abr-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;10-abr-2023;Si;Primigestante;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300125;07-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Subsidiado;Otro;1;07-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300126;23-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;22-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300125;07-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Subsidiado;Otro;1;07-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300126;23-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;22-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300127;13-abr-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Otro;4;03-abr-2023;No;Primigestante;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300128;15-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;15-ene-2023;Si;Primigestante;4 a 6;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300129;18-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;17-abr-2023;Si;Gran multípara (6 o más gestaciones);7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300130;19-ene-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;19-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300131;07-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Aafro colombiano;1;07-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300129;18-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;17-abr-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300130;19-ene-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;19-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300131;07-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Aafro colombiano;1;07-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300132;14-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;12-feb-2023;Si;Primigestante;7 a 9;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300133;09-feb-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;08-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300133;09-feb-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;08-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300134;13-ene-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;12-ene-2023;Si;Primigestante;1 a 3;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300135;23-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Aafro colombiano;3;23-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300135;23-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Aafro colombiano;3;23-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300136;24-abr-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;1;21-abr-2023;Si;Primigestante;7 a 9;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300137;24-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;23-ene-2023;Si;Primigestante;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300138;31-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Otro;1;12-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300139;21-feb-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Otro;1;21-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;6;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300140;02-mar-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;02-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300141;16-may-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;15-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300141;16-may-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;15-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300142;30-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;28-mar-2023;Si;Primigestante;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300143;19-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;25-mar-2023;No;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300144;05-may-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;04-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300145;14-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Subsidiado;Otro;1;04-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300146;23-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;3;22-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;6;Otra causa;20-may-2023;06-jun-2023
+249202300143;19-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;25-mar-2023;No;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300144;05-may-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;04-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300145;14-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Subsidiado;Otro;1;04-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300146;23-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;3;22-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;6;Otra causa;20-may-2023;06-jun-2023
 249202300147;06-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;03-feb-2023;Si;Primigestante;ninguno;Parto;24;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
 249202300148;14-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;13-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300149;05-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;02-feb-2023;Si;Primigestante;4 a 6;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300150;27-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;1;25-mar-2023;Si;Primigestante;1 a 3;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300151;22-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;2;20-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300152;24-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;6;23-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300152;24-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;6;23-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300153;15-may-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;15-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300154;16-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;4;15-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300155;11-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;4;10-may-2023;Si;Primigestante;4 a 6;Parto;2;Otra causa;20-may-2023;06-jun-2023
-249202300156;20-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;3;20-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300156;20-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;3;20-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300157;25-mar-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;4;24-mar-2023;Si;Primigestante;> de 10;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300158;19-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;18-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300159;08-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;;07-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300160;06-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;05-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300161;07-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;3;07-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300162;17-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;16-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300163;28-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;27-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300158;19-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;18-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300159;08-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;;07-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300160;06-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;05-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300161;07-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;3;07-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300162;17-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;16-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300163;28-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;27-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300164;16-ene-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Aafro colombiano;1;15-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300165;10-mar-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;2;10-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300165;10-mar-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;2;10-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300166;16-feb-2023;76001;Cali;Valle del cauca;17;F;Colombia;Contributivo;Otro;2;15-feb-2023;Si;Primigestante;4 a 6;Parto;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300167;24-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;24-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300168;13-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;13-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300168;13-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;13-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300169;03-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;02-may-2023;Si;Primigestante;1 a 3;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300170;10-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;09-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300170;10-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;09-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300171;25-ene-2023;76001;Cali;Valle del cauca;15;F;Colombia;Contributivo;Otro;2;25-ene-2023;Si;Primigestante;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300172;26-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;25-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300172;26-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;25-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300173;03-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;4;03-mar-2023;Si;Primigestante;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300174;20-abr-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;20-abr-2023;Si;Primigestante;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300175;21-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;19-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300176;21-abr-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;6;20-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300175;21-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;19-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300176;21-abr-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;6;20-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300177;23-feb-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;22-feb-2023;Si;Primigestante;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300178;03-ene-2023;76001;Cali;Valle del cauca;24;F;Colombia;Indeterminado;Otro;;02-ene-2023;Si;Primigestante;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300179;31-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Subsidiado;Otro;1;31-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300179;31-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Subsidiado;Otro;1;31-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300180;14-abr-2023;76001;Cali;Valle del cauca;17;F;Colombia;Contributivo;Otro;2;12-abr-2023;Si;Primigestante;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300181;22-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;3;22-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300181;22-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;3;22-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300182;04-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;04-may-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300183;24-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;1;24-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300184;06-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Aafro colombiano;;04-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300185;16-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;16-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300186;01-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Subsidiado;Otro;2;01-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300183;24-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;1;24-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300184;06-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Aafro colombiano;;04-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300185;16-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;16-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300186;01-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Subsidiado;Otro;2;01-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300187;06-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Subsidiado;Otro;2;06-ene-2023;No;Primigestante;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300188;28-mar-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;28-mar-2023;Si;Primigestante;> de 10;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300189;05-abr-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;2;05-abr-2023;Si;Primigestante;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300190;21-abr-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;2;20-abr-2023;Si;Primigestante;1 a 3;Cesarea;12;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300191;23-abr-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;22-abr-2023;Si;Primigestante;7 a 9;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300192;06-feb-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Otro;2;05-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300192;06-feb-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Otro;2;05-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300193;23-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Aafro colombiano;2;12-mar-2023;Si;Primigestante;1 a 3;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300194;04-may-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;04-may-2023;Si;Primigestante;7 a 9;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300195;08-mar-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;1;08-mar-2023;Si;Primigestante;7 a 9;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300196;05-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Aafro colombiano;2;03-mar-2023;Si;Primigestante;ninguno;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300197;02-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;374;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300198;01-ene-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Aafro colombiano;2;01-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300199;14-may-2023;76001;Cali;Valle del cauca;28;F;Colombia;Subsidiado;Otro;2;13-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300197;02-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;374;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300198;01-ene-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Aafro colombiano;2;01-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300199;14-may-2023;76001;Cali;Valle del cauca;28;F;Colombia;Subsidiado;Otro;2;13-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300200;06-feb-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;1;06-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300201;23-mar-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Aafro colombiano;2;15-mar-2023;Si;Primigestante;1 a 3;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300202;02-feb-2023;76001;Cali;Valle del cauca;16;F;Colombia;Subsidiado;Otro;1;02-feb-2023;No;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300203;08-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;07-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300204;21-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Excepcion;Otro;2;20-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300205;09-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;08-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300203;08-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;07-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300204;21-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Excepcion;Otro;2;20-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300205;09-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;08-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300206;01-may-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;29-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300207;07-may-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;Primigestante;ninguno;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300208;13-abr-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;5;10-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300208;13-abr-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;5;10-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300209;15-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;6;15-mar-2023;Si;Primigestante;ninguno;Cesarea;0;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300210;16-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;16-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300211;15-may-2023;76001;Cali;Valle del cauca;43;F;Colombia;Subsidiado;Otro;3;08-feb-2023;No;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300212;13-feb-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;5;13-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300210;16-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;16-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300211;15-may-2023;76001;Cali;Valle del cauca;43;F;Colombia;Subsidiado;Otro;3;08-feb-2023;No;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300212;13-feb-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;5;13-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300213;07-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;;06-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300214;04-may-2023;76001;Cali;Valle del cauca;17;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;Primigestante;4 a 6;Parto;7;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300215;06-ene-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Aafro colombiano;1;03-ene-2023;Si;Primigestante;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300216;17-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;16-ene-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;28;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300216;17-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;16-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;28;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300217;01-feb-2023;76001;Cali;Valle del cauca;15;F;Colombia;Contributivo;Otro;3;31-ene-2023;Si;Primigestante;1 a 3;Continua embarazada;3;Otra causa;20-may-2023;06-jun-2023
-249202300218;21-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;;20-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300219;29-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;29-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;7;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300218;21-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;;20-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300219;29-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;29-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;7;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300220;17-mar-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;3;16-mar-2023;Si;Primigestante;> de 10;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300221;13-mar-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;12-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300222;05-may-2023;76001;Cali;Valle del cauca;17;F;Colombia;Excepcion;Aafro colombiano;2;04-may-2023;Si;Primigestante;1 a 3;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
@@ -225,101 +225,101 @@ codigo_sspd;fecha_notificacion;cod_divipola;ciudad;dpto;edad;sexo;nacionalidad;t
 249202300224;04-ene-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;3;03-ene-2023;Si;Primigestante;4 a 6;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300225;23-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;22-ene-2023;Si;Primigestante;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300226;09-feb-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;09-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300227;20-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Aafro colombiano;1;20-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300228;23-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;5;22-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
-249202300229;11-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;11-ene-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300230;28-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;2;28-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300227;20-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Aafro colombiano;1;20-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300228;23-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;5;22-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
+249202300229;11-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;11-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300230;28-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;2;28-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300231;13-feb-2023;76001;Cali;Valle del cauca;17;F;Colombia;Subsidiado;Otro;2;12-feb-2023;Si;Primigestante;1 a 3;Aborto;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300232;31-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;30-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300232;31-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;30-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300233;15-mar-2023;76001;Cali;Valle del cauca;15;F;Colombia;Subsidiado;Otro;2;15-mar-2023;Si;Primigestante;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300234;13-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;13-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300235;04-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300236;18-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;1;17-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Parto;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300237;16-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300238;19-abr-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;3;02-abr-2023;No;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300239;05-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;04-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300240;27-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;26-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300234;13-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;13-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300235;04-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300236;18-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;1;17-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Parto;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300237;16-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300238;19-abr-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;3;02-abr-2023;No;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300239;05-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;04-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300240;27-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;26-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300241;30-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Subsidiado;Otro;1;27-mar-2023;Si;Primigestante;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300242;05-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Subsidiado;Otro;2;05-abr-2023;Si;Primigestante;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300243;14-mar-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;3;13-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300244;17-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;16-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;1;Otra causa;20-may-2023;06-jun-2023
-249202300245;17-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;;16-ene-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;11;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300243;14-mar-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;3;13-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300244;17-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;16-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;1;Otra causa;20-may-2023;06-jun-2023
+249202300245;17-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;;16-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;11;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300246;03-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;6;03-abr-2023;Si;Primigestante;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300247;09-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;4;09-mar-2023;Si;Primigestante;7 a 9;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300248;23-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;22-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300249;17-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;3;11-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300248;23-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;22-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300249;17-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;3;11-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300250;17-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;;16-abr-2023;Si;Primigestante;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300251;25-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;25-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300252;14-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;13-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300251;25-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;25-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300252;14-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;13-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300253;25-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Subsidiado;Otro;2;16-ene-2023;Si;Primigestante;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300254;02-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;3;01-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300255;20-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;1;11-abr-2022;No;Primigestante;ninguno;Aborto;0;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300256;25-ene-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;24-ene-2023;Si;Primigestante;4 a 6;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300257;20-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;19-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300258;08-feb-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;3;02-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;6;Otra causa;20-may-2023;06-jun-2023
-249202300259;19-may-2023;76001;Cali;Valle del cauca;23;F;Colombia;Subsidiado;Otro;2;19-may-2021;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300257;20-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;19-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300258;08-feb-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;3;02-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;6;Otra causa;20-may-2023;06-jun-2023
+249202300259;19-may-2023;76001;Cali;Valle del cauca;23;F;Colombia;Subsidiado;Otro;2;19-may-2021;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300260;23-may-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;3;22-may-2023;Si;Primigestante;4 a 6;Parto;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300261;11-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;1;08-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300261;11-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;1;08-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300262;06-feb-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;1;06-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300263;05-may-2023;76001;Cali;Valle del cauca;17;F;Colombia;Subsidiado;Otro;3;04-may-2023;Si;Primigestante;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300264;13-mar-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;10-mar-2023;Si;Primigestante;7 a 9;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300265;10-may-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;1;08-may-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300265;10-may-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;1;08-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300266;04-may-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;04-may-2023;Si;Primigestante;1 a 3;Continua embarazada;5;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
-249202300267;02-ene-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;369;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300268;31-ene-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;30-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300267;02-ene-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;369;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300268;31-ene-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;30-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300269;12-may-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;11-may-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300270;01-feb-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;;31-ene-2023;Si;Primigestante;ninguno;Aborto;5;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300271;25-ene-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;23-ene-2023;Si;Primigestante;4 a 6;Cesarea;5;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300272;24-abr-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;2;23-abr-2023;Si;Primigestante;4 a 6;Cesarea;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300273;19-feb-2023;76001;Cali;Valle del cauca;16;F;Colombia;Contributivo;Otro;2;19-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300274;19-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;19-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300273;19-feb-2023;76001;Cali;Valle del cauca;16;F;Colombia;Contributivo;Otro;2;19-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300274;19-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;19-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300275;17-abr-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;15-abr-2023;Si;Primigestante;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300276;08-may-2023;76001;Cali;Valle del cauca;16;F;Colombia;Subsidiado;Otro;3;07-may-2023;Si;Primigestante;ninguno;Aborto;2;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300277;22-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;4;21-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300278;05-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;4;05-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300277;22-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;4;21-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300278;05-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;4;05-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;2;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300279;22-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;22-mar-2023;Si;Primigestante;7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300280;03-may-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;3;02-may-2023;Si;Primigestante;4 a 6;Continua embarazada;1;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300281;14-abr-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;13-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300282;09-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Subsidiado;Aafro colombiano;1;05-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300282;09-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Subsidiado;Aafro colombiano;1;05-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300283;07-feb-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;06-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300284;22-mar-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;2;21-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300285;05-abr-2023;76001;Cali;Valle del cauca;17;F;Colombia;Subsidiado;Otro;1;02-abr-2023;Si;Primigestante;4 a 6;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300286;28-feb-2023;76001;Cali;Valle del cauca;17;F;Colombia;Contributivo;Otro;2;27-feb-2023;Si;Primigestante;4 a 6;Parto;2;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300287;18-mar-2023;76001;Cali;Valle del cauca;17;F;Colombia;Subsidiado;Otro;2;17-mar-2023;Si;Primigestante;1 a 3;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300288;16-mar-2023;76001;Cali;Valle del cauca;16;F;Colombia;Subsidiado;Otro;2;15-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300289;02-mar-2023;76001;Cali;Valle del cauca;43;F;Colombia;Contributivo;Otro;2;01-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300289;02-mar-2023;76001;Cali;Valle del cauca;43;F;Colombia;Contributivo;Otro;2;01-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300290;18-may-2023;76001;Cali;Valle del cauca;19;F;Colombia;Subsidiado;Otro;1;18-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300291;08-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;3;06-may-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300291;08-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;3;06-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300292;26-feb-2023;76001;Cali;Valle del cauca;17;F;Colombia;Subsidiado;Otro;2;25-feb-2023;Si;Primigestante;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300293;22-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;;21-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;5;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
-249202300294;06-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;1;03-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300293;22-mar-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;;21-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;5;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
+249202300294;06-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;1;03-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300295;09-mar-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;08-mar-2023;Si;Primigestante;7 a 9;Parto;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300296;19-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Aafro colombiano;2;19-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300297;10-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300298;24-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;3;24-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;9;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
-249202300299;10-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Aafro colombiano;2;08-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300296;19-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Aafro colombiano;2;19-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300297;10-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300298;24-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;3;24-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;9;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
+249202300299;10-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Aafro colombiano;2;08-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300300;03-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;02-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;43;Otra causa;20-may-2023;06-jun-2023
-249202300301;13-may-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300302;27-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;;27-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;6;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
+249202300301;13-may-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300302;27-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;;27-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;6;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
 249202300303;07-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;3;06-feb-2023;Si;Primigestante;7 a 9;Cesarea;6;Otra causa;20-may-2023;06-jun-2023
-249202300304;21-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;21-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300305;06-feb-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;2;05-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300306;20-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;19-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300307;22-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;1;21-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;22;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300304;21-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;21-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300305;06-feb-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;2;05-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300306;20-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;19-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300307;22-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;1;21-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;22;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300308;02-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;No asegurado;Otro;6;01-feb-2023;Si;Primigestante;ninguno;Aborto;1;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300309;23-abr-2023;76001;Cali;Valle del cauca;18;F;Colombia;Subsidiado;Otro;;22-abr-2023;Si;Primigestante;1 a 3;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300310;27-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;26-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300310;27-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;26-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300311;16-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;10-ene-2023;Si;Primigestante;7 a 9;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300312;22-may-2023;76001;Cali;Valle del cauca;15;F;Colombia;Contributivo;Otro;2;21-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300312;22-may-2023;76001;Cali;Valle del cauca;15;F;Colombia;Contributivo;Otro;2;21-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300313;03-may-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;3;03-may-2023;Si;Primigestante;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300314;16-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300314;16-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300315;13-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Primigestante;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300316;03-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;Primigestante;4 a 6;Parto;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300317;08-may-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;;07-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Aborto;7;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
+249202300317;08-may-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;;07-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Aborto;7;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
 249202300318;02-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;02-mar-2023;Si;Primigestante;4 a 6;Parto;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300319;27-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;26-abr-2023;Si;Primigestante;7 a 9;Parto;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300320;11-may-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;3;10-may-2023;Si;Primigestante;4 a 6;Parto;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300321;08-mar-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;07-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;34;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300321;08-mar-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;07-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;34;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300322;27-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;26-abr-2023;Si;Primigestante;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300323;17-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;17-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300324;16-feb-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;16-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
@@ -327,260 +327,260 @@ codigo_sspd;fecha_notificacion;cod_divipola;ciudad;dpto;edad;sexo;nacionalidad;t
 249202300326;16-feb-2023;76001;Cali;Valle del cauca;15;F;Colombia;Contributivo;Otro;2;16-feb-2023;Si;Primigestante;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300327;11-feb-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;Primigestante;7 a 9;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300328;24-abr-2023;76001;Cali;Valle del cauca;17;F;Colombia;Contributivo;Otro;2;23-abr-2023;Si;Primigestante;4 a 6;Cesarea;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300329;28-abr-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;1;26-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300330;07-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;5;01-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300329;28-abr-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;1;26-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300330;07-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;5;01-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300331;13-may-2023;76001;Cali;Valle del cauca;18;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Primigestante;4 a 6;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300332;13-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Subsidiado;Otro;2;13-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300332;13-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Subsidiado;Otro;2;13-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300333;05-may-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;04-may-2023;Si;Primigestante;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300334;11-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;2;10-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300334;11-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;2;10-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300335;24-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;24-ene-2023;Si;Primigestante;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300336;23-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;1;22-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300336;23-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;1;22-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300337;27-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;26-abr-2023;Si;Primigestante;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300338;16-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;No asegurado;Otro;2;14-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300338;16-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;No asegurado;Otro;2;14-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300339;01-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;30-abr-2023;Si;Primigestante;ninguno;Parto;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300340;21-abr-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;21-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300341;02-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;29-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300340;21-abr-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;21-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300341;02-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;29-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300342;12-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;11-feb-2023;Si;Primigestante;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300343;17-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;3;17-abr-2023;Si;Primigestante;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300344;02-feb-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;01-feb-2023;Si;Primigestante;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300345;06-abr-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;03-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300345;06-abr-2023;76001;Cali;Valle del cauca;39;F;Colombia;Contributivo;Otro;2;03-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300346;03-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300347;12-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;2;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;0;Otra causa;20-may-2023;06-jun-2023
-249202300348;19-may-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;18-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300347;12-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;2;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;0;Otra causa;20-may-2023;06-jun-2023
+249202300348;19-may-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;18-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300349;20-abr-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;2;19-abr-2023;Si;Primigestante;4 a 6;Cesarea;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300350;31-mar-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;31-mar-2023;Si;Primigestante;4 a 6;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300351;06-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;2;05-mar-2023;Si;Primigestante;4 a 6;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300352;28-feb-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;4;27-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300352;28-feb-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;4;27-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300353;02-may-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;4;01-may-2023;Si;Primigestante;4 a 6;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300354;15-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;14-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300355;21-feb-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;3;21-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300356;10-ene-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;;10-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;7;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300357;08-may-2023;76001;Cali;Valle del cauca;35;F;Colombia;Subsidiado;Otro;2;04-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300358;19-abr-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;18-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300359;05-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Aafro colombiano;2;03-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;4;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
-249202300360;15-may-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;14-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300361;15-may-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;5;14-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300362;05-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;04-feb-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300363;16-may-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;16-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300364;09-mar-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;3;08-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300365;10-ene-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;3;09-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300366;25-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;24-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300367;14-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300368;21-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;1;14-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300354;15-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;14-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300355;21-feb-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;3;21-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300356;10-ene-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;;10-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;7;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300357;08-may-2023;76001;Cali;Valle del cauca;35;F;Colombia;Subsidiado;Otro;2;04-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300358;19-abr-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;18-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300359;05-mar-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Aafro colombiano;2;03-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;4;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
+249202300360;15-may-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;14-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300361;15-may-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;5;14-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300362;05-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;04-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300363;16-may-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;2;16-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300364;09-mar-2023;76001;Cali;Valle del cauca;37;F;Colombia;Contributivo;Otro;3;08-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300365;10-ene-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;3;09-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300366;25-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;24-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300367;14-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300368;21-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;1;14-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300369;31-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;2;28-mar-2023;Si;Primigestante;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300370;10-abr-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Otro;2;08-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300370;10-abr-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Otro;2;08-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300371;22-feb-2023;76001;Cali;Valle del cauca;36;F;Colombia;Subsidiado;Otro;2;20-feb-2023;Si;Primigestante;1 a 3;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300372;28-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;27-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300372;28-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;27-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300373;30-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;2;29-mar-2023;Si;Primigestante;1 a 3;Cesarea;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300374;03-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Aafro colombiano;3;03-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300375;21-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;1;20-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300374;03-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Aafro colombiano;3;03-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300375;21-feb-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;1;20-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300376;20-ene-2023;76001;Cali;Valle del cauca;36;F;Colombia;Contributivo;Otro;3;19-ene-2023;Si;Primigestante;1 a 3;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300377;15-may-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Otro;2;04-feb-2023;No;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300377;15-may-2023;76001;Cali;Valle del cauca;37;F;Colombia;Subsidiado;Otro;2;04-feb-2023;No;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300378;23-feb-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;5;19-feb-2023;Si;Primigestante;7 a 9;Cesarea;14;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300379;04-may-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;4;04-may-2023;Si;Primigestante;4 a 6;Continua embarazada;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300380;30-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;29-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;19;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300380;30-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;29-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;19;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300381;14-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;Primigestante;7 a 9;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300382;06-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;4;06-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300383;09-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;2;09-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300382;06-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;4;06-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300383;09-mar-2023;76001;Cali;Valle del cauca;34;F;Colombia;Subsidiado;Otro;2;09-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300384;13-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;12-mar-2023;Si;Primigestante;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300385;22-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;22-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300386;11-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;10-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;17;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300386;11-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;10-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;17;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300387;06-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;;28-feb-2023;Si;Primigestante;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300388;10-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;4;09-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Aborto;1;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300389;27-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;26-feb-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300390;23-may-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;3;22-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300391;08-may-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;08-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300388;10-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;4;09-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Aborto;1;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300389;27-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;26-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300390;23-may-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;3;22-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300391;08-may-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;08-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300392;11-mar-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Raizal;4;10-mar-2023;Si;Primigestante;4 a 6;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300393;05-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;04-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300393;05-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;04-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300394;26-feb-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;25-feb-2023;Si;Primigestante;7 a 9;Continua embarazada;20;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300395;14-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;14-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300396;08-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300397;13-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300398;17-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;01-ene-2023;No;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300399;27-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Aafro colombiano;1;10-mar-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Parto;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300400;04-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Aafro colombiano;2;04-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300395;14-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;14-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300396;08-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300397;13-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300398;17-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;01-ene-2023;No;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300399;27-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Aafro colombiano;1;10-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Parto;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300400;04-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Aafro colombiano;2;04-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300401;27-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;26-mar-2023;Si;Primigestante;7 a 9;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300402;03-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;03-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300403;17-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Subsidiado;Aafro colombiano;4;13-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300404;17-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;4;17-feb-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300405;17-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;17-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300402;03-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;03-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300403;17-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Subsidiado;Aafro colombiano;4;13-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300404;17-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;4;17-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Aborto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300405;17-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Subsidiado;Otro;2;17-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300406;21-abr-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;2;12-abr-2023;Si;Primigestante;ninguno;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300407;13-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;13-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300407;13-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;13-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300408;23-may-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;3;22-may-2023;Si;Primigestante;> de 10;Parto;0;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
 249202300409;16-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Aafro colombiano;3;16-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300410;21-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;4;20-abr-2023;Si;Primigestante;7 a 9;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300411;22-ene-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;21-ene-2023;Si;Primigestante;4 a 6;Cesarea;5;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
-249202300412;10-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;09-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300412;10-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;09-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300413;09-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;5;08-mar-2023;Si;Primigestante;> de 10;Parto;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300414;10-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300415;13-ene-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;10-ene-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300414;10-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;10-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300415;13-ene-2023;76001;Cali;Valle del cauca;35;F;Colombia;Contributivo;Otro;2;10-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300416;14-abr-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;13-abr-2023;Si;Primigestante;7 a 9;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300417;02-ene-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;02-ene-2023;Si;Primigestante;4 a 6;Cesarea;371;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300418;31-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;31-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300419;25-abr-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;2;25-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300419;25-abr-2023;76001;Cali;Valle del cauca;34;F;Colombia;Contributivo;Otro;2;25-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300420;12-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;11-may-2023;Si;Primigestante;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300421;30-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;1;30-mar-2023;Si;Gran multípara (6 o más gestaciones);> de 10;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300422;29-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;28-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;1;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300423;12-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Aafro colombiano;1;11-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300424;07-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;;06-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300425;13-abr-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;12-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300426;08-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;07-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300421;30-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;1;30-mar-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);> de 10;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300422;29-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;28-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;1;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300423;12-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Aafro colombiano;1;11-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300424;07-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;;06-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300425;13-abr-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;12-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300426;08-may-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;07-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300427;28-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;1;26-mar-2023;Si;Primigestante;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300428;17-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;16-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300429;21-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;20-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300430;13-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;13-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Aborto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300428;17-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;16-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300429;21-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;20-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300430;13-ene-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;13-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Aborto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300431;12-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;5;11-may-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300432;13-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;5;12-ene-2023;Si;Gran multípara (6 o más gestaciones);4 a 6;Continua embarazada;2;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300433;31-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;31-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300434;02-abr-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;01-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300435;10-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;09-mar-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;6;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300436;10-ene-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;4;10-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;1;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300437;27-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;27-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300438;01-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;31-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300439;12-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;11-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300440;13-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;12-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300432;13-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;5;12-ene-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);4 a 6;Continua embarazada;2;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300433;31-mar-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;31-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300434;02-abr-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;01-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300435;10-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;09-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;6;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300436;10-ene-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;4;10-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;1;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300437;27-ene-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;27-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300438;01-feb-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;31-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300439;12-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;11-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300440;13-abr-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;12-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300441;04-ene-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;4;03-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300442;06-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;3;04-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300442;06-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;3;04-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300443;21-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;5;18-mar-2023;Si;Primigestante;4 a 6;Cesarea;4;Otra causa;20-may-2023;06-jun-2023
 249202300444;17-may-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;5;15-may-2023;Si;Primigestante;> de 10;Cesarea;0;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
-249202300445;08-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Subsidiado;Otro;2;07-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300446;02-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;1;02-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300447;19-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;;18-may-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300445;08-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Subsidiado;Otro;2;07-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300446;02-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;1;02-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300447;19-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;;18-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300448;12-ene-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;10-ene-2023;Si;Primigestante;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300449;14-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;3;13-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300450;10-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;09-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300451;31-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;31-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300450;10-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;09-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300451;31-mar-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;31-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300452;19-ene-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;18-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300453;15-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300454;03-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;02-may-2023;No;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300455;19-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;19-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300453;15-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300454;03-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Subsidiado;Otro;2;02-may-2023;No;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300455;19-may-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;19-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300456;09-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;3;08-ene-2023;Si;Primigestante;4 a 6;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300457;20-abr-2023;76001;Cali;Valle del cauca;33;F;Colombia;Contributivo;Otro;2;19-abr-2023;Si;Primigestante;7 a 9;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300458;11-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;3;10-ene-2023;Si;Primigestante;4 a 6;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300459;02-feb-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;02-feb-2023;Si;Primigestante;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300460;03-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;03-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300460;03-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;03-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300461;06-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;05-may-2023;Si;Primigestante;> de 10;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300462;26-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;25-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300463;10-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;10-abr-2023;Si;Primigestante;7 a 9;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300464;31-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;30-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300465;04-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300464;31-mar-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;30-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300465;04-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300466;03-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;03-may-2023;Si;Primigestante;7 a 9;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300467;13-ene-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;12-ene-2023;Si;Primigestante;4 a 6;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300468;18-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;18-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300468;18-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;18-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300469;10-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;09-mar-2023;Si;Primigestante;7 a 9;Parto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300470;13-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Subsidiado;Otro;4;12-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300471;06-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Cesarea;7;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
+249202300470;13-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Subsidiado;Otro;4;12-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300471;06-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Cesarea;7;Enf. Preexistente que se complica;20-may-2023;06-jun-2023
 249202300472;20-ene-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;20-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300473;15-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Subsidiado;Otro;2;25-ene-2023;No;Primigestante;> de 10;Parto;0;Sepsis de origen pulmonar;20-may-2023;06-jun-2023
 249202300474;19-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Subsidiado;Otro;2;05-abr-2023;No;Primigestante;> de 10;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300475;10-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;1;09-feb-2023;Si;Primigestante;4 a 6;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300476;30-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Subsidiado;Otro;2;29-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300477;02-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;02-abr-2023;Si;Primigestante;1 a 3;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300478;07-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;06-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300478;07-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;06-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300479;04-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;03-ene-2023;Si;Primigestante;4 a 6;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300480;29-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;28-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300480;29-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;28-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300481;17-ene-2023;76001;Cali;Valle del cauca;27;F;Colombia;Subsidiado;Otro;2;16-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300482;13-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;5;11-mar-2023;Si;Primigestante;7 a 9;Parto;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300483;02-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;3;01-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300484;17-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;14-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;10;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300483;02-mar-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;3;01-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300484;17-abr-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;14-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;10;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300485;23-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;3;25-ene-2023;Si;Primigestante;4 a 6;Cesarea;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300486;14-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;14-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300486;14-mar-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;14-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300487;05-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;5;28-abr-2023;Si;Primigestante;4 a 6;Cesarea;6;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300488;21-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Rom, Gitano;2;20-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300488;21-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Rom Gitano;2;20-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300489;08-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;08-may-2023;Si;Primigestante;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300490;09-feb-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;08-feb-2023;Si;Primigestante;4 a 6;Cesarea;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300491;08-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;07-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300492;12-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;5;10-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
+249202300491;08-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;07-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300492;12-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;5;10-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
 249202300493;04-ene-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Aafro colombiano;3;04-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300494;05-ene-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;04-ene-2023;Si;Primigestante;ninguno;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300495;03-ene-2023;76001;Cali;Valle del cauca;20;F;Colombia;Subsidiado;Otro;1;02-ene-2023;Si;Primigestante;7 a 9;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300496;08-ene-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;07-ene-2023;Si;Primigestante;7 a 9;Aborto;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300497;20-abr-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;18-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300498;11-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;08-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300499;10-abr-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;3;07-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300500;27-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;26-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300501;31-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;30-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300498;11-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;3;08-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300499;10-abr-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;3;07-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300500;27-feb-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;26-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300501;31-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;30-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300502;16-mar-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;4;15-mar-2023;Si;Primigestante;7 a 9;Cesarea;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300503;08-ene-2023;76001;Cali;Valle del cauca;32;F;Colombia;Contributivo;Otro;2;05-ene-2023;Si;Primigestante;ninguno;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300504;15-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300505;13-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300506;01-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;1;28-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300504;15-may-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;15-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Cesarea;4;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300505;13-may-2023;76001;Cali;Valle del cauca;30;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300506;01-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;1;28-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300507;22-mar-2023;76001;Cali;Valle del cauca;29;F;Colombia;Contributivo;Otro;2;22-mar-2023;Si;Primigestante;7 a 9;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300508;08-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;3;07-feb-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300509;01-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;31-ene-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300508;08-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;3;07-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300509;01-feb-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;2;31-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300510;12-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Contributivo;Otro;5;11-abr-2023;Si;Primigestante;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300511;13-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;3;12-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300512;13-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;11-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones de aborto;20-may-2023;06-jun-2023
-249202300513;17-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;15-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300514;21-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Subsidiado;Aafro colombiano;2;11-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300511;13-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;3;12-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300512;13-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;11-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones de aborto;20-may-2023;06-jun-2023
+249202300513;17-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;15-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300514;21-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Subsidiado;Aafro colombiano;2;11-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300515;23-feb-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Aafro colombiano;3;22-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300516;17-may-2023;76001;Cali;Valle del cauca;23;F;Colombia;Subsidiado;Otro;2;20-ene-2023;No;Primigestante;ninguno;Aborto;1;Complicaciones de aborto;20-may-2023;06-jun-2023
 249202300517;23-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;23-feb-2023;Si;Primigestante;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300518;08-abr-2023;76001;Cali;Valle del cauca;23;F;Colombia;Contributivo;Otro;2;06-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300519;02-ene-2023;76001;Cali;Valle del cauca;19;F;Colombia;Contributivo;Otro;2;01-ene-2023;Si;Primigestante;4 a 6;Cesarea;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300520;11-feb-2023;76001;Cali;Valle del cauca;21;F;Colombia;Contributivo;Otro;3;10-feb-2023;Si;Primigestante;1 a 3;Continua embarazada;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300521;13-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300521;13-may-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;12-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300522;17-abr-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;17-abr-2023;Si;Primigestante;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300523;08-feb-2023;76001;Cali;Valle del cauca;20;F;Colombia;Contributivo;Otro;2;07-feb-2023;Si;Primigestante;7 a 9;Cesarea;3;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300524;25-abr-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;2;24-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300525;19-ene-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;3;18-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300526;06-abr-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;12;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300526;06-abr-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;12;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
 249202300527;01-abr-2023;76001;Cali;Valle del cauca;22;F;Colombia;Contributivo;Otro;2;31-mar-2023;Si;Primigestante;4 a 6;Aborto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300528;13-abr-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;12-abr-2023;Si;Primigestante;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300529;03-mar-2023;76001;Cali;Valle del cauca;22;F;Colombia;Subsidiado;Otro;2;03-mar-2023;Si;Primigestante;7 a 9;Cesarea;14;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300530;28-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;1;28-mar-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;10;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300531;20-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;18-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300530;28-mar-2023;76001;Cali;Valle del cauca;21;F;Colombia;Subsidiado;Otro;1;28-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;10;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300531;20-feb-2023;76001;Cali;Valle del cauca;27;F;Colombia;Contributivo;Otro;2;18-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300532;10-ene-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;09-ene-2023;Si;Primigestante;1 a 3;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300533;06-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;05-mar-2023;Si;Primigestante;ninguno;Aborto;5;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300534;23-feb-2023;76001;Cali;Valle del cauca;24;F;Colombia;Contributivo;Otro;2;22-feb-2023;Si;Primigestante;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300535;31-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;30-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300535;31-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;30-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300536;06-mar-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;06-mar-2023;Si;Primigestante;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300537;06-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300537;06-abr-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;05-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300538;08-abr-2023;76001;Cali;Valle del cauca;31;F;Colombia;Contributivo;Otro;2;07-abr-2023;Si;Primigestante;4 a 6;Cesarea;2;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300539;26-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;25-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300539;26-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;Subsidiado;Otro;2;25-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300540;19-may-2023;76001;Cali;Valle del cauca;25;F;Colombia;Contributivo;Otro;2;18-may-2023;Si;Primigestante;4 a 6;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300541;10-ene-2023;76001;Cali;Valle del cauca;26;F;Colombia;Contributivo;Otro;2;10-ene-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300542;30-abr-2023;76001;Cali;Valle del cauca;28;F;Colombia;Subsidiado;Otro;2;27-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;13;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300543;24-abr-2023;76001;Cali;Valle del cauca;26;F;Venezuela;No asegurado;Otro;1;19-abr-2023;Si;Primigestante;1 a 3;Continua embarazada;1;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300544;08-may-2023;76001;Cali;Valle del cauca;36;F;Venezuela;Contributivo;Otro;2;08-may-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300544;08-may-2023;76001;Cali;Valle del cauca;36;F;Venezuela;Contributivo;Otro;2;08-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300545;10-abr-2023;76001;Cali;Valle del cauca;25;F;Venezuela;Contributivo;Otro;2;07-abr-2023;Si;Primigestante;4 a 6;Cesarea;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300546;23-mar-2023;76001;Cali;Valle del cauca;24;F;Colombia;No asegurado;Otro;2;23-mar-2023;Si;Primigestante;4 a 6;Parto instrumentado;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300547;27-ene-2023;76001;Cali;Valle del cauca;24;F;Venezuela;No asegurado;Rom, Gitano;2;24-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300547;27-ene-2023;76001;Cali;Valle del cauca;24;F;Venezuela;No asegurado;Rom, Gitano;2;24-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300548;09-may-2023;76001;Cali;Valle del cauca;19;F;Venezuela;No asegurado;Otro;2;09-may-2023;Si;Primigestante;4 a 6;Parto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300549;03-ene-2023;76001;Cali;Valle del cauca;19;F;Venezuela;No asegurado;Otro;2;31-dic-2022;Si;Primigestante;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300550;21-feb-2023;76001;Cali;Valle del cauca;19;F;Venezuela;No asegurado;Otro;1;18-feb-2023;Si;Primigestante;4 a 6;Cesarea;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300551;23-mar-2023;76001;Cali;Valle del cauca;19;F;Venezuela;No asegurado;Otro;3;10-mar-2023;Si;Primigestante;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300552;05-may-2023;76001;Cali;Valle del cauca;19;F;Venezuela;No asegurado;Otro;2;03-may-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;0;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
+249202300552;05-may-2023;76001;Cali;Valle del cauca;19;F;Venezuela;No asegurado;Otro;2;03-may-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;0;Sepsis de origen no obstetrico;20-may-2023;06-jun-2023
 249202300553;31-mar-2023;76001;Cali;Valle del cauca;17;F;Venezuela;No asegurado;Otro;3;29-mar-2023;Si;Primigestante;4 a 6;Parto;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300554;27-mar-2023;76001;Cali;Valle del cauca;18;F;Venezuela;No asegurado;Otro;1;17-mar-2023;Si;Primigestante;1 a 3;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300555;21-abr-2023;76001;Cali;Valle del cauca;20;F;Venezuela;No asegurado;Otro;1;19-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300555;21-abr-2023;76001;Cali;Valle del cauca;20;F;Venezuela;No asegurado;Otro;1;19-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Parto;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300556;23-mar-2023;76001;Cali;Valle del cauca;15;F;Venezuela;No asegurado;Otro;3;12-mar-2023;Si;Primigestante;1 a 3;Parto;10;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300557;31-mar-2023;76001;Cali;Valle del cauca;18;F;Venezuela;No asegurado;Otro;1;27-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300558;16-feb-2023;76001;Cali;Valle del cauca;25;F;Venezuela;Subsidiado;Otro;2;16-feb-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300559;27-abr-2023;76001;Cali;Valle del cauca;27;F;Venezuela;Subsidiado;Otro;2;27-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300557;31-mar-2023;76001;Cali;Valle del cauca;18;F;Venezuela;No asegurado;Otro;1;27-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300558;16-feb-2023;76001;Cali;Valle del cauca;25;F;Venezuela;Subsidiado;Otro;2;16-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Continua embarazada;11;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300559;27-abr-2023;76001;Cali;Valle del cauca;27;F;Venezuela;Subsidiado;Otro;2;27-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;6;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300560;08-ene-2023;76001;Cali;Valle del cauca;37;F;Venezuela;Subsidiado;Otro;2;08-ene-2023;Si;Primigestante;7 a 9;Cesarea;11;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300561;24-abr-2023;76001;Cali;Valle del cauca;27;F;Venezuela;Subsidiado;Otro;1;23-abr-2023;No;Multípara entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300562;02-ene-2023;76001;Cali;Valle del cauca;27;F;Venezuela;Contributivo;Otro;2;02-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300563;20-feb-2023;76001;Cali;Valle del cauca;39;F;Venezuela;Subsidiado;Otro;2;19-feb-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300564;19-abr-2023;76001;Cali;Valle del cauca;28;F;Venezuela;Subsidiado;Otro;2;19-abr-2023;Si;Multípara entre 2 a 5 gestaciones;> de 10;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300565;02-feb-2023;76001;Cali;Valle del cauca;30;F;Venezuela;Subsidiado;Otro;2;31-ene-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300566;24-ene-2023;76001;Cali;Valle del cauca;39;F;Venezuela;Subsidiado;Otro;2;24-ene-2023;Si;Gran multípara (6 o más gestaciones);4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300567;15-mar-2023;76001;Cali;Valle del cauca;21;F;Venezuela;Subsidiado;Otro;2;14-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300568;10-ene-2023;76001;Cali;Valle del cauca;41;F;Venezuela;Contributivo;Otro;2;07-ene-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300569;23-feb-2023;76001;Cali;Valle del cauca;25;F;Venezuela;Subsidiado;Otro;2;23-feb-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Aborto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300561;24-abr-2023;76001;Cali;Valle del cauca;27;F;Venezuela;Subsidiado;Otro;1;23-abr-2023;No;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300562;02-ene-2023;76001;Cali;Valle del cauca;27;F;Venezuela;Contributivo;Otro;2;02-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300563;20-feb-2023;76001;Cali;Valle del cauca;39;F;Venezuela;Subsidiado;Otro;2;19-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;8;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
+249202300564;19-abr-2023;76001;Cali;Valle del cauca;28;F;Venezuela;Subsidiado;Otro;2;19-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;> de 10;Continua embarazada;2;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300565;02-feb-2023;76001;Cali;Valle del cauca;30;F;Venezuela;Subsidiado;Otro;2;31-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Parto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300566;24-ene-2023;76001;Cali;Valle del cauca;39;F;Venezuela;Subsidiado;Otro;2;24-ene-2023;Si;Gran multÃ­para (6 o mÃ¡s gestaciones);4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300567;15-mar-2023;76001;Cali;Valle del cauca;21;F;Venezuela;Subsidiado;Otro;2;14-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;9;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300568;10-ene-2023;76001;Cali;Valle del cauca;41;F;Venezuela;Contributivo;Otro;2;07-ene-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;3;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300569;23-feb-2023;76001;Cali;Valle del cauca;25;F;Venezuela;Subsidiado;Otro;2;23-feb-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Aborto;1;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
 249202300570;08-abr-2023;76001;Cali;Valle del cauca;32;F;Venezuela;Contributivo;Otro;2;07-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300571;14-abr-2023;76001;Cali;Valle del cauca;39;F;Venezuela;Contributivo;Otro;3;13-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300572;19-abr-2023;76001;Cali;Valle del cauca;15;F;Venezuela;Subsidiado;Otro;6;19-abr-2023;Si;Multípara entre 2 a 5 gestaciones;ninguno;Cesarea;27;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
-249202300573;01-may-2023;76001;Cali;Valle del cauca;31;F;Venezuela;Subsidiado;Otro;2;30-abr-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300574;08-abr-2023;76001;Cali;Valle del cauca;30;F;Venezuela;Subsidiado;Otro;2;06-abr-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300575;23-mar-2023;76001;Cali;Valle del cauca;26;F;Venezuela;Subsidiado;Otro;2;22-mar-2023;Si;Multípara entre 2 a 5 gestaciones;7 a 9;Aborto;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300571;14-abr-2023;76001;Cali;Valle del cauca;39;F;Venezuela;Contributivo;Otro;3;13-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300572;19-abr-2023;76001;Cali;Valle del cauca;15;F;Venezuela;Subsidiado;Otro;6;19-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;ninguno;Cesarea;27;Complicaciones Hemorragicas;20-may-2023;06-jun-2023
+249202300573;01-may-2023;76001;Cali;Valle del cauca;31;F;Venezuela;Subsidiado;Otro;2;30-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Cesarea;4;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300574;08-abr-2023;76001;Cali;Valle del cauca;30;F;Venezuela;Subsidiado;Otro;2;06-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300575;23-mar-2023;76001;Cali;Valle del cauca;26;F;Venezuela;Subsidiado;Otro;2;22-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;7 a 9;Aborto;8;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300576;17-abr-2023;76001;Cali;Valle del cauca;23;F;Venezuela;Contributivo;Otro;2;16-abr-2023;Si;Primigestante;4 a 6;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300577;06-mar-2023;76001;Cali;Valle del cauca;18;F;Venezuela;Subsidiado;Otro;1;28-jul-2022;Si;Primigestante;1 a 3;Continua embarazada;1;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300578;23-abr-2023;76001;Cali;Valle del cauca;17;F;Venezuela;Subsidiado;Otro;2;23-abr-2023;Si;Primigestante;4 a 6;Parto;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300579;15-mar-2023;76001;Cali;Valle del cauca;19;F;Venezuela;Subsidiado;Otro;2;14-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300580;04-ene-2023;76001;Cali;Valle del cauca;36;F;Venezuela;Subsidiado;Otro;1;30-dic-2022;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300579;15-mar-2023;76001;Cali;Valle del cauca;19;F;Venezuela;Subsidiado;Otro;2;14-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Cesarea;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300580;04-ene-2023;76001;Cali;Valle del cauca;36;F;Venezuela;Subsidiado;Otro;1;30-dic-2022;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;0;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300581;25-ene-2023;76001;Cali;Valle del cauca;20;F;Venezuela;Contributivo;Otro;2;24-ene-2023;Si;Primigestante;ninguno;Continua embarazada;5;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 249202300582;17-may-2023;76001;Cali;Valle del cauca;19;F;Venezuela;Subsidiado;Otro;2;26-ene-2023;Si;Primigestante;1 a 3;Parto;0;Sepsis de origen obstetrico;20-may-2023;06-jun-2023
-249202300583;19-abr-2023;76001;Cali;Valle del cauca;37;F;Venezuela;Subsidiado;Otro;2;19-abr-2023;Si;Multípara entre 2 a 5 gestaciones;1 a 3;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
-249202300584;01-mar-2023;76001;Cali;Valle del cauca;41;F;Venezuela;Contributivo;Otro;2;01-mar-2023;Si;Multípara entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300583;19-abr-2023;76001;Cali;Valle del cauca;37;F;Venezuela;Subsidiado;Otro;2;19-abr-2023;Si;MultÃ­para entre 2 a 5 gestaciones;1 a 3;Continua embarazada;3;Trastornos Hipertensivos;20-may-2023;06-jun-2023
+249202300584;01-mar-2023;76001;Cali;Valle del cauca;41;F;Venezuela;Contributivo;Otro;2;01-mar-2023;Si;MultÃ­para entre 2 a 5 gestaciones;4 a 6;Continua embarazada;7;Trastornos Hipertensivos;20-may-2023;06-jun-2023
 ;;;;;;;;;;;;;;;;;;;
