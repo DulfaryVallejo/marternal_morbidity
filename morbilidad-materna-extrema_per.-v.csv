@@ -1,585 +1,585 @@
 Code_phss;Age;Nationality;Social security type;Ethnicity;Stratum;Hospitalized patient;Number of pregnancies;Gestation term;Hospitalization days;Reason for admission
-2,49E+11;23;0;0;1;2;1;1;1;3;7
-2,49E+11;22;0;0;1;2;1;2;3;2;1
-2,49E+11;42;0;0;1;2;1;1;3;4;7
-2,49E+11;40;0;3;1;1;1;1;0;4;0
-2,49E+11;37;0;0;1;2;1;1;1;3;1
-2,49E+11;41;0;0;1;2;1;1;2;13;7
-2,49E+11;43;0;1;1;3;1;1;2;30;7
-2,49E+11;40;0;1;1;2;1;1;1;2;7
-2,49E+11;38;0;0;1;3;1;1;1;2;1
-2,49E+11;44;0;0;1;3;1;1;1;2;1
-2,49E+11;39;0;0;1;2;1;1;2;5;5
-2,49E+11;39;0;0;1;4;1;1;1;2;7
-2,49E+11;38;0;0;1;2;1;1;2;2;7
-2,49E+11;38;0;0;1;3;1;1;1;7;1
-2,49E+11;38;0;0;1;1;1;1;3;2;7
-2,49E+11;38;0;0;1;2;1;1;2;0;7
-2,49E+11;39;0;0;1;1;1;1;2;4;7
-2,49E+11;39;0;0;1;3;1;1;0;1;0
-2,49E+11;39;0;0;1;2;1;1;2;0;7
-2,49E+11;39;0;0;1;3;1;1;1;4;7
-2,49E+11;39;0;0;1;2;1;2;2;14;7
-2,49E+11;39;0;0;1;;1;2;2;5;7
-2,49E+11;44;0;3;1;1;1;0;0;2;0
-2,49E+11;41;0;0;1;3;1;1;1;2;1
-2,49E+11;41;0;0;0;2;1;1;1;4;7
-2,49E+11;43;0;3;1;2;1;1;3;0;7
-2,49E+11;40;0;0;1;3;1;1;1;7;1
-2,49E+11;39;0;0;1;4;1;2;1;2;5
-2,49E+11;40;0;3;1;2;1;1;2;29;7
-2,49E+11;38;0;0;1;2;1;1;3;5;1
-2,49E+11;42;0;0;1;3;1;2;0;3;1
-2,49E+11;40;0;3;1;2;1;1;1;7;7
-2,49E+11;41;0;0;1;4;1;1;2;2;3
-2,49E+11;42;0;0;1;2;1;1;3;4;7
-2,49E+11;41;0;0;1;2;1;1;0;5;1
-2,49E+11;42;0;3;1;2;1;1;2;7;7
-2,49E+11;41;0;0;1;2;1;1;1;4;7
-2,49E+11;41;0;0;1;3;1;2;0;21;4
-2,49E+11;40;0;0;1;;1;1;1;7;7
-2,49E+11;40;0;0;1;3;1;1;2;0;7
-2,49E+11;44;0;3;1;1;1;1;1;0;7
-2,49E+11;39;0;0;1;2;1;1;2;7;7
-2,49E+11;39;0;0;1;5;1;1;1;7;7
-2,49E+11;38;0;0;1;3;1;1;0;2;1
-2,49E+11;38;0;3;1;2;1;1;3;0;7
-2,49E+11;38;0;0;1;3;1;1;2;4;7
-2,49E+11;39;0;1;1;2;1;1;1;2;7
-2,49E+11;39;0;0;1;2;1;2;2;7;7
-2,49E+11;37;0;0;1;5;1;1;2;3;7
-2,49E+11;42;0;0;1;2;1;1;1;1;7
-2,49E+11;42;0;3;1;2;1;1;2;7;7
-2,49E+11;37;0;0;1;2;1;1;1;2;1
-2,49E+11;38;0;0;1;2;1;1;3;7;1
-2,49E+11;47;0;0;1;;1;2;1;0;1
-2,49E+11;40;0;0;1;2;1;1;2;9;7
-2,49E+11;40;0;0;1;2;1;2;2;7;7
-2,49E+11;38;0;0;1;4;1;1;3;3;7
-2,49E+11;40;0;0;1;7;1;2;1;0;7
-2,49E+11;37;0;0;1;3;1;1;3;4;7
-2,49E+11;37;0;0;1;4;1;1;3;3;7
-2,49E+11;39;0;0;0;3;1;1;2;2;7
-2,49E+11;38;0;3;1;1;1;1;0;11;0
-2,49E+11;37;0;0;1;2;1;1;2;3;7
-2,49E+11;37;0;3;0;2;1;1;2;7;7
-2,49E+11;38;0;3;1;3;1;1;2;7;7
-2,49E+11;31;0;0;1;5;1;1;1;3;7
-2,49E+11;21;0;0;1;2;1;2;1;4;1
-2,49E+11;20;0;0;1;2;1;2;3;7;1
-2,49E+11;33;0;3;1;2;1;0;1;9;1
-2,49E+11;31;0;3;1;2;1;2;2;0;7
-2,49E+11;30;0;3;1;1;1;1;1;3;7
-2,49E+11;21;0;0;1;2;1;0;2;2;7
-2,49E+11;30;0;0;1;2;1;1;3;4;7
-2,49E+11;20;0;0;1;2;1;2;2;3;7
-2,49E+11;30;0;3;0;1;1;2;3;0;2
-2,49E+11;25;0;0;1;3;1;2;2;3;7
-2,49E+11;31;0;0;1;2;1;1;1;3;7
-2,49E+11;27;0;3;1;2;1;2;0;7;1
-2,49E+11;24;0;3;1;1;1;2;3;2;1
-2,49E+11;21;0;0;1;4;1;2;0;0;1
-2,49E+11;21;0;3;1;3;1;2;2;7;7
-2,49E+11;27;0;0;1;3;1;2;1;1;1
-2,49E+11;23;0;0;1;2;1;2;2;4;7
-2,49E+11;34;0;3;1;2;1;1;0;2;1
-2,49E+11;21;0;3;1;2;1;1;2;3;7
-2,49E+11;27;0;0;1;2;1;1;1;4;7
-2,49E+11;25;0;0;1;2;1;2;0;18;7
-2,49E+11;22;0;3;1;2;1;1;1;8;3
-2,49E+11;22;0;0;1;2;1;2;3;3;7
-2,49E+11;28;0;0;0;1;0;1;0;0;0
-2,49E+11;27;0;3;0;1;1;2;3;4;7
-2,49E+11;21;0;0;1;2;1;2;1;2;7
-2,49E+11;19;0;3;1;2;1;2;2;4;7
-2,49E+11;21;0;0;1;2;1;2;1;7;7
-2,49E+11;24;0;0;1;3;1;1;1;4;7
-2,49E+11;19;0;0;1;2;1;2;2;4;7
-2,49E+11;29;0;0;1;2;1;1;3;2;7
-2,49E+11;20;0;0;1;3;1;2;3;44;5
-2,49E+11;22;0;0;1;2;1;2;1;3;1
-2,49E+11;22;0;0;1;2;1;1;1;1;7
-2,49E+11;22;0;0;1;;1;1;2;5;4
-2,49E+11;21;0;0;1;2;1;2;2;2;6
-2,49E+11;22;0;0;1;3;1;2;2;8;7
-2,49E+11;21;0;0;1;3;1;2;2;2;7
-2,49E+11;19;0;0;1;2;1;2;2;3;5
-2,49E+11;23;0;0;1;2;1;2;2;13;7
-2,49E+11;21;0;0;1;3;1;1;2;8;7
-2,49E+11;20;0;0;1;2;1;2;1;9;7
-2,49E+11;21;0;3;1;1;1;1;3;2;1
-2,49E+11;21;0;3;1;;1;1;1;0;7
-2,49E+11;22;0;3;1;2;1;1;0;5;7
-2,49E+11;22;0;0;1;2;1;2;1;9;7
-2,49E+11;21;0;0;1;2;1;2;3;2;1
-2,49E+11;22;0;3;1;2;1;1;3;3;7
-2,49E+11;31;0;0;1;4;1;2;1;5;1
-2,49E+11;22;0;0;1;1;1;2;2;2;7
-2,49E+11;18;0;3;0;1;1;2;2;0;7
-2,49E+11;25;0;0;1;2;1;2;2;7;7
-2,49E+11;22;0;0;1;2;1;1;3;9;1
-2,49E+11;21;0;3;1;2;1;1;2;7;7
-2,49E+11;21;0;0;1;2;1;1;2;7;7
-2,49E+11;21;0;0;1;2;1;2;2;7;7
-2,49E+11;20;0;3;1;7;1;1;3;4;7
-2,49E+11;33;0;3;1;2;1;2;2;3;7
-2,49E+11;29;0;3;1;1;1;1;2;0;7
-2,49E+11;27;0;0;1;2;1;1;2;0;7
-2,49E+11;20;0;3;1;4;0;2;2;0;7
-2,49E+11;25;0;0;1;2;1;2;3;5;1
-2,49E+11;28;0;0;1;2;1;0;3;4;1
-2,49E+11;19;0;0;1;2;1;1;3;2;1
-2,49E+11;31;0;3;0;1;1;1;1;11;7
-2,49E+11;22;0;0;1;2;1;2;2;2;7
-2,49E+11;23;0;0;1;2;1;1;3;1;1
-2,49E+11;19;0;0;1;2;1;2;2;7;7
-2,49E+11;30;0;0;0;3;1;1;1;5;7
-2,49E+11;21;0;3;1;1;1;2;1;4;1
-2,49E+11;27;0;0;1;2;1;2;3;3;7
-2,49E+11;20;0;3;1;1;1;2;2;1;7
-2,49E+11;20;0;3;1;1;1;2;2;7;5
-2,49E+11;28;0;0;1;2;1;2;2;7;7
-2,49E+11;22;0;3;1;2;1;1;3;0;5
-2,49E+11;22;0;0;1;2;1;2;3;3;1
-2,49E+11;24;0;3;1;2;0;1;3;0;7
-2,49E+11;20;0;0;1;2;1;1;2;4;7
-2,49E+11;23;0;3;1;1;1;1;2;1;7
-2,49E+11;20;0;0;1;3;1;1;3;7;3
-2,49E+11;24;0;0;1;2;1;2;3;24;4
-2,49E+11;22;0;0;1;2;1;2;2;7;7
-2,49E+11;22;0;3;1;2;1;2;3;7;7
-2,49E+11;21;0;0;1;1;1;2;3;2;1
-2,49E+11;21;0;0;1;2;1;2;2;0;7
-2,49E+11;34;0;0;1;7;1;1;1;4;1
-2,49E+11;24;0;3;1;2;1;2;2;0;5
-2,49E+11;33;0;0;1;4;1;2;2;0;5
-2,49E+11;32;0;0;1;4;1;2;3;2;3
-2,49E+11;29;0;0;1;3;1;1;3;2;1
-2,49E+11;28;0;0;1;4;1;2;1;2;1
-2,49E+11;32;0;0;1;2;1;1;1;3;7
-2,49E+11;29;0;0;1;;1;1;2;3;7
-2,49E+11;35;0;0;1;2;1;1;2;9;7
-2,49E+11;23;0;0;1;3;1;1;3;4;1
-2,49E+11;25;0;0;1;2;1;1;2;8;5
-2,49E+11;32;0;0;1;2;1;1;3;5;7
-2,49E+11;18;0;3;0;1;1;2;2;3;7
-2,49E+11;18;0;3;1;2;1;1;3;4;1
-2,49E+11;17;0;0;1;2;1;2;3;13;7
-2,49E+11;24;0;0;1;2;1;2;2;4;7
-2,49E+11;37;0;0;1;2;1;1;1;3;1
-2,49E+11;21;0;3;1;2;1;2;2;3;7
-2,49E+11;31;0;3;1;2;1;1;2;7;7
-2,49E+11;15;0;0;1;2;1;2;1;4;7
-2,49E+11;32;0;0;1;2;1;1;3;2;1
-2,49E+11;34;0;0;1;4;1;2;2;2;7
-2,49E+11;33;0;0;1;2;1;2;1;8;7
-2,49E+11;20;0;0;1;2;1;1;1;8;5
-2,49E+11;32;0;0;1;7;1;1;1;0;7
-2,49E+11;30;0;0;1;3;1;2;2;5;7
-2,49E+11;24;0;2;1;;1;2;1;3;7
-2,49E+11;35;0;3;1;1;1;1;1;0;7
-2,49E+11;17;0;0;1;2;1;2;1;4;7
-2,49E+11;27;0;0;1;3;1;1;2;0;7
-2,49E+11;25;0;0;1;2;1;2;2;4;7
-2,49E+11;34;0;3;1;1;1;1;2;0;7
-2,49E+11;33;0;3;0;;1;1;1;5;7
-2,49E+11;27;0;0;1;2;1;1;1;2;7
-2,49E+11;25;0;3;1;2;1;1;1;0;7
-2,49E+11;23;0;3;1;2;0;2;3;0;7
-2,49E+11;18;0;0;1;2;1;2;3;4;7
-2,49E+11;19;0;3;1;2;1;2;1;0;7
-2,49E+11;19;0;3;1;2;1;2;1;12;7
-2,49E+11;23;0;0;1;2;1;2;2;7;7
-2,49E+11;37;0;3;1;2;1;1;1;2;1
-2,49E+11;22;0;3;0;2;1;2;1;2;7
-2,49E+11;21;0;3;1;2;1;2;1;4;1
-2,49E+11;18;0;3;1;1;1;2;3;1;1
-2,49E+11;30;0;0;0;2;1;2;2;4;7
-2,49E+11;27;0;0;1;2;1;1;1;374;7
-2,49E+11;21;0;3;0;2;1;1;3;5;7
-2,49E+11;28;0;3;1;2;1;1;3;0;7
-2,49E+11;18;0;3;1;1;1;2;2;9;7
-2,49E+11;20;0;3;0;2;1;2;1;7;7
-2,49E+11;17;0;3;1;1;0;2;2;0;7
-2,49E+11;33;0;0;1;2;1;1;0;2;1
-2,49E+11;27;0;1;1;2;1;1;1;0;1
-2,49E+11;31;0;3;1;2;1;1;2;7;7
-2,49E+11;20;0;0;1;2;1;2;2;3;7
-2,49E+11;19;0;0;1;2;1;2;3;5;7
-2,49E+11;34;0;0;1;5;1;1;1;2;1
-2,49E+11;37;0;0;1;7;1;2;1;0;0
-2,49E+11;27;0;0;1;2;1;1;2;2;7
-2,49E+11;43;0;3;1;3;0;1;2;0;7
-2,49E+11;30;0;3;1;5;1;1;1;1;1
-2,49E+11;29;0;0;1;;1;2;2;4;7
-2,49E+11;17;0;0;1;2;1;2;3;7;1
-2,49E+11;18;0;3;0;1;1;2;1;2;7
-2,49E+11;28;0;0;1;2;1;1;1;28;7
-2,49E+11;15;0;0;1;3;1;2;2;3;3
-2,49E+11;31;0;0;1;;1;1;2;8;7
-2,49E+11;29;0;0;1;2;1;1;2;7;5
-2,49E+11;19;0;3;1;3;1;2;3;1;1
-2,49E+11;18;0;0;1;2;1;2;2;5;7
-2,49E+11;17;0;1;0;2;1;2;3;3;7
-2,49E+11;23;0;3;0;1;1;2;1;3;7
-2,49E+11;37;0;0;1;3;1;2;1;4;1
-2,49E+11;30;0;0;1;3;1;2;1;8;7
-2,49E+11;22;0;3;1;2;1;2;2;4;7
-2,49E+11;34;0;3;0;1;1;1;2;0;7
-2,49E+11;37;0;3;1;5;1;1;2;0;2
-2,49E+11;27;0;3;1;2;1;1;1;0;7
-2,49E+11;37;0;0;1;2;1;1;3;7;7
-2,49E+11;17;0;3;1;2;1;2;0;8;5
-2,49E+11;24;0;3;1;2;1;1;2;5;7
-2,49E+11;15;0;3;1;2;1;2;2;7;7
-2,49E+11;32;0;0;1;2;1;1;3;1;1
-2,49E+11;32;0;0;1;2;1;1;2;4;7
-2,49E+11;24;0;0;1;1;1;1;3;3;5
-2,49E+11;30;0;0;1;2;1;1;1;0;7
-2,49E+11;30;0;3;1;3;0;1;2;0;7
-2,49E+11;28;0;0;1;2;1;1;3;2;7
-2,49E+11;28;0;0;1;2;1;1;1;2;7
-2,49E+11;29;0;3;1;1;1;2;2;0;7
-2,49E+11;29;0;3;1;2;1;2;1;0;7
-2,49E+11;28;0;0;1;3;1;1;3;5;1
-2,49E+11;28;0;0;1;2;1;1;2;1;3
-2,49E+11;27;0;0;1;;1;1;2;11;5
-2,49E+11;27;0;0;1;7;1;2;3;2;1
-2,49E+11;27;0;0;1;4;1;2;0;2;1
-2,49E+11;27;0;0;1;2;1;1;1;7;7
-2,49E+11;27;0;0;1;3;1;1;3;3;1
-2,49E+11;27;0;0;1;;1;2;3;3;7
-2,49E+11;27;0;0;1;2;1;1;1;5;7
-2,49E+11;25;0;0;1;2;1;1;2;7;5
-2,49E+11;25;0;3;1;2;1;2;3;3;7
-2,49E+11;25;0;0;1;3;1;2;2;0;7
-2,49E+11;24;0;3;1;1;0;2;0;0;0
-2,49E+11;24;0;0;1;2;1;2;3;4;1
-2,49E+11;23;0;0;1;2;1;1;3;4;7
-2,49E+11;23;0;0;1;3;1;1;1;7;3
-2,49E+11;23;0;3;1;2;1;1;1;0;1
-2,49E+11;27;0;0;1;3;1;2;3;0;5
-2,49E+11;22;0;3;1;1;1;1;1;8;7
-2,49E+11;18;0;3;1;1;1;2;2;0;7
-2,49E+11;17;0;3;1;3;1;2;3;2;1
-2,49E+11;19;0;0;1;2;1;2;3;3;1
-2,49E+11;18;0;3;1;1;1;1;2;0;7
-2,49E+11;19;0;0;1;2;1;2;2;5;4
-2,49E+11;18;0;0;1;2;1;1;0;379;1
-2,49E+11;20;0;0;1;2;1;1;3;2;1
-2,49E+11;18;0;0;1;2;1;2;2;4;7
-2,49E+11;37;0;0;1;;1;2;0;5;0
-2,49E+11;18;0;0;1;2;1;2;1;5;5
-2,49E+11;19;0;3;1;2;1;2;1;11;7
-2,49E+11;17;0;0;1;2;1;1;3;5;1
-2,49E+11;27;0;0;1;2;1;1;2;0;7
-2,49E+11;19;0;0;1;2;1;2;3;3;1
-2,49E+11;17;0;3;1;3;1;2;0;2;0
-2,49E+11;25;0;0;1;4;1;1;2;3;5
-2,49E+11;25;0;0;1;4;1;1;0;2;0
-2,49E+11;32;0;0;1;2;1;2;3;4;1
-2,49E+11;18;0;0;1;3;1;2;2;1;5
-2,49E+11;18;0;0;1;2;1;2;2;7;7
-2,49E+11;32;0;3;0;1;1;1;2;9;7
-2,49E+11;19;0;0;1;2;1;2;2;7;7
-2,49E+11;19;0;3;1;2;1;2;2;4;7
-2,49E+11;17;0;3;1;1;1;2;3;2;1
-2,49E+11;17;0;0;1;2;1;2;3;2;5
-2,49E+11;17;0;3;1;2;1;2;1;7;7
-2,49E+11;17;0;3;1;2;1;2;2;5;7
-2,49E+11;43;0;0;1;2;1;1;1;1;7
-2,49E+11;19;0;3;1;1;1;2;2;0;7
-2,49E+11;37;0;0;1;3;1;1;1;1;1
-2,49E+11;17;0;3;1;2;1;2;3;3;1
-2,49E+11;23;0;0;1;;1;1;2;5;2
-2,49E+11;27;0;3;1;1;1;1;3;2;7
-2,49E+11;19;0;0;1;2;1;2;3;10;7
-2,49E+11;30;0;3;0;2;1;1;3;0;7
-2,49E+11;29;0;0;1;2;1;1;3;5;7
-2,49E+11;27;0;0;1;3;1;1;2;9;2
-2,49E+11;27;0;0;0;2;1;1;1;5;7
-2,49E+11;21;0;3;1;2;1;2;2;43;3
-2,49E+11;22;0;0;1;2;1;1;3;3;1
-2,49E+11;27;0;3;1;;1;1;2;7;4
-2,49E+11;35;0;0;1;3;1;2;1;7;3
-2,49E+11;35;0;0;1;2;1;1;3;4;7
-2,49E+11;30;0;3;1;2;1;1;1;2;1
-2,49E+11;27;0;0;1;2;1;1;2;8;7
-2,49E+11;24;0;3;1;1;1;1;2;22;7
-2,49E+11;25;0;3;1;7;1;2;0;1;0
-2,49E+11;18;0;3;1;;1;2;1;0;7
-2,49E+11;31;0;3;1;2;1;1;3;4;1
-2,49E+11;31;0;0;1;2;1;2;1;7;1
-2,49E+11;15;0;0;1;2;1;1;2;0;7
-2,49E+11;23;0;0;1;3;1;2;3;3;7
-2,49E+11;31;0;0;1;2;1;1;2;0;7
-2,49E+11;32;0;0;1;2;1;2;3;3;7
-2,49E+11;28;0;0;1;2;1;2;3;8;7
-2,49E+11;27;0;3;1;;1;1;0;7;2
-2,49E+11;25;0;0;1;2;1;2;3;7;7
-2,49E+11;25;0;0;1;2;1;2;3;10;7
-2,49E+11;23;0;0;1;3;1;2;3;0;5
-2,49E+11;37;0;0;1;2;1;1;2;34;7
-2,49E+11;28;0;0;1;2;1;2;1;4;7
-2,49E+11;25;0;0;1;2;1;2;2;4;7
-2,49E+11;32;0;0;1;2;1;2;2;4;7
-2,49E+11;24;0;0;1;2;1;2;3;2;1
-2,49E+11;15;0;0;1;2;1;2;3;3;7
-2,49E+11;32;0;0;1;2;1;2;1;7;7
-2,49E+11;17;0;0;1;2;1;2;1;9;7
-2,49E+11;37;0;3;1;1;1;1;3;4;7
-2,49E+11;31;0;0;1;5;1;1;1;7;7
-2,49E+11;18;0;0;1;2;1;2;3;0;7
-2,49E+11;27;0;3;1;2;1;1;2;10;7
-2,49E+11;19;0;0;1;2;1;2;1;2;7
-2,49E+11;34;0;0;1;2;1;1;2;7;7
-2,49E+11;22;0;3;1;2;1;2;2;5;7
-2,49E+11;33;0;0;1;1;1;1;1;3;5
-2,49E+11;27;0;3;1;2;1;2;2;3;7
-2,49E+11;25;0;3;1;2;1;1;2;11;7
-2,49E+11;30;0;0;1;2;1;2;3;10;7
-2,49E+11;37;0;0;1;2;1;1;1;0;7
-2,49E+11;37;0;3;1;2;1;1;1;0;1
-2,49E+11;27;0;0;1;2;1;2;3;3;1
-2,49E+11;24;0;0;1;3;1;2;2;3;7
-2,49E+11;30;0;0;1;2;1;2;1;5;7
-2,49E+11;39;0;0;1;2;1;1;1;8;7
-2,49E+11;31;0;0;1;2;1;2;2;4;7
-2,49E+11;30;0;3;1;2;1;1;2;0;3
-2,49E+11;27;0;3;1;2;1;1;2;0;7
-2,49E+11;37;0;0;1;2;1;2;1;9;7
-2,49E+11;35;0;0;1;2;1;2;2;11;7
-2,49E+11;34;0;0;1;2;1;2;2;8;7
-2,49E+11;37;0;0;1;4;1;1;1;1;1
-2,49E+11;37;0;0;1;4;1;2;3;2;1
-2,49E+11;37;0;3;1;2;1;1;2;7;7
-2,49E+11;37;0;0;1;3;1;1;1;3;1
-2,49E+11;37;0;0;1;;1;1;1;7;5
-2,49E+11;35;0;3;1;2;1;1;1;8;7
-2,49E+11;37;0;3;1;2;1;1;2;2;7
-2,49E+11;37;0;0;0;2;1;1;2;4;4
-2,49E+11;35;0;0;1;2;1;1;2;0;7
-2,49E+11;34;0;0;1;5;1;1;1;0;1
-2,49E+11;35;0;0;1;2;1;1;0;3;1
-2,49E+11;37;0;0;1;2;1;1;2;0;7
-2,49E+11;37;0;0;1;3;1;1;1;7;1
-2,49E+11;35;0;0;1;3;1;1;2;3;7
-2,49E+11;35;0;0;1;2;1;1;2;2;7
-2,49E+11;34;0;0;1;3;1;1;1;1;7
-2,49E+11;34;0;3;1;1;1;1;1;7;7
-2,49E+11;34;0;3;1;2;1;2;3;3;7
-2,49E+11;37;0;3;1;2;1;1;1;3;1
-2,49E+11;37;0;3;1;2;1;2;1;3;7
-2,49E+11;35;0;0;1;2;1;1;2;7;7
-2,49E+11;34;0;0;1;2;1;2;1;10;7
-2,49E+11;35;0;0;0;3;1;1;2;7;7
-2,49E+11;34;0;0;1;1;1;1;1;2;7
-2,49E+11;37;0;0;1;3;1;2;2;11;7
-2,49E+11;37;0;3;1;2;0;1;2;0;0
-2,49E+11;35;0;0;1;5;1;2;1;14;7
-2,49E+11;34;0;0;1;4;1;2;2;2;1
-2,49E+11;29;0;0;1;2;1;1;1;19;7
-2,49E+11;25;0;0;1;3;1;2;2;9;7
-2,49E+11;33;0;0;1;4;1;1;2;10;7
-2,49E+11;34;0;3;1;2;1;1;2;5;7
-2,49E+11;30;0;0;1;3;1;2;2;4;7
-2,49E+11;30;0;0;1;3;1;2;2;0;7
-2,49E+11;29;0;0;1;2;1;1;2;17;7
-2,49E+11;29;0;0;1;;1;2;3;2;1
-2,49E+11;29;0;0;1;4;1;1;0;1;0
-2,49E+11;29;0;0;1;2;1;1;1;3;7
-2,49E+11;29;0;0;1;3;1;1;3;0;7
-2,49E+11;28;0;0;1;2;1;1;2;8;7
-2,49E+11;28;0;0;2;4;1;2;1;2;1
-2,49E+11;27;0;0;1;2;1;1;3;7;7
-2,49E+11;27;0;0;1;2;1;2;2;20;5
-2,49E+11;27;0;0;1;2;1;1;2;3;7
-2,49E+11;25;0;0;1;2;1;1;1;5;7
-2,49E+11;33;0;0;1;2;1;1;2;0;7
-2,49E+11;33;0;3;1;2;0;1;2;0;0
-2,49E+11;33;0;3;0;1;1;1;3;9;7
-2,49E+11;31;0;0;0;2;1;1;3;3;1
-2,49E+11;31;0;0;1;2;1;2;3;3;1
-2,49E+11;31;0;0;1;2;1;1;1;3;7
-2,49E+11;32;0;3;0;4;1;1;1;0;7
-2,49E+11;31;0;3;1;4;1;1;0;2;1
-2,49E+11;31;0;3;1;2;1;1;2;7;7
-2,49E+11;30;0;3;1;2;1;2;2;2;7
-2,49E+11;29;0;0;1;2;1;1;1;3;1
-2,49E+11;29;0;0;1;3;1;2;3;0;4
-2,49E+11;29;0;0;0;3;1;2;2;7;7
-2,49E+11;28;0;0;1;4;1;2;3;7;7
-2,49E+11;28;0;0;1;2;1;2;1;5;4
-2,49E+11;27;0;3;1;2;1;1;0;4;1
-2,49E+11;27;0;0;1;5;1;2;3;1;7
-2,49E+11;25;0;0;1;2;1;1;2;5;7
-2,49E+11;35;0;0;1;2;1;1;3;4;1
-2,49E+11;24;0;0;1;2;1;2;1;8;7
-2,49E+11;24;0;0;1;2;1;2;1;371;7
-2,49E+11;23;0;0;1;2;1;2;2;4;7
-2,49E+11;34;0;0;1;2;1;1;2;5;7
-2,49E+11;33;0;0;1;2;1;2;2;0;7
-2,49E+11;33;0;3;1;1;1;0;2;0;7
-2,49E+11;32;0;0;1;2;1;1;3;1;5
-2,49E+11;32;0;0;0;1;1;1;1;0;5
-2,49E+11;32;0;0;1;;1;1;3;3;7
-2,49E+11;32;0;0;1;2;1;1;2;11;7
-2,49E+11;32;0;0;1;2;1;1;0;3;1
-2,49E+11;31;0;0;1;1;1;2;1;3;7
-2,49E+11;31;0;0;1;2;1;1;1;5;7
-2,49E+11;31;0;0;1;2;1;1;3;5;1
-2,49E+11;31;0;0;1;2;1;1;0;3;7
-2,49E+11;30;0;0;1;5;1;2;2;0;7
-2,49E+11;30;0;0;1;5;1;0;2;2;5
-2,49E+11;32;0;0;1;2;1;1;2;10;7
-2,49E+11;30;0;0;1;2;1;1;1;2;7
-2,49E+11;30;0;0;1;2;1;1;2;7;5
-2,49E+11;29;0;0;1;4;1;1;2;1;5
-2,49E+11;30;0;0;1;2;1;1;2;5;7
-2,49E+11;29;0;0;1;2;1;1;2;5;7
-2,49E+11;30;0;0;1;3;1;1;3;0;7
-2,49E+11;27;0;0;1;2;1;1;1;5;7
-2,49E+11;29;0;0;1;4;1;2;2;5;7
-2,49E+11;28;0;0;1;3;1;1;3;3;1
-2,49E+11;27;0;0;1;5;1;2;1;4;3
-2,49E+11;27;0;3;1;5;1;2;1;0;2
-2,49E+11;27;0;3;1;2;1;1;2;4;7
-2,49E+11;25;0;0;1;1;1;1;3;3;1
-2,49E+11;25;0;0;1;;1;1;2;0;7
-2,49E+11;29;0;0;1;2;1;2;1;2;7
-2,49E+11;24;0;0;1;3;1;2;2;4;7
-2,49E+11;33;0;0;1;2;1;1;1;4;7
-2,49E+11;33;0;0;1;2;1;1;1;10;7
-2,49E+11;33;0;0;1;2;1;2;2;3;7
-2,49E+11;33;0;0;1;2;1;1;2;0;7
-2,49E+11;33;0;3;1;2;0;1;2;0;7
-2,49E+11;33;0;0;1;2;1;1;2;0;7
-2,49E+11;32;0;0;1;3;1;2;1;1;1
-2,49E+11;33;0;0;1;2;1;2;3;7;7
-2,49E+11;32;0;0;1;3;1;2;1;1;7
-2,49E+11;32;0;0;1;2;1;2;2;4;7
-2,49E+11;31;0;0;1;2;1;1;1;4;7
-2,49E+11;31;0;0;1;2;1;2;2;7;7
-2,49E+11;31;0;0;1;2;1;2;2;3;7
-2,49E+11;31;0;0;1;2;1;2;2;4;7
-2,49E+11;30;0;0;1;3;1;1;1;2;1
-2,49E+11;30;0;0;1;2;1;1;0;7;1
-2,49E+11;30;0;0;1;2;1;2;3;4;1
-2,49E+11;29;0;0;1;2;1;2;1;4;7
-2,49E+11;30;0;0;1;2;1;1;2;0;7
-2,49E+11;29;0;0;1;2;1;2;3;5;1
-2,49E+11;29;0;3;1;4;1;1;1;2;5
-2,49E+11;29;0;0;1;2;1;1;1;7;2
-2,49E+11;29;0;0;1;2;1;2;2;4;7
-2,49E+11;30;0;3;1;2;0;2;3;0;6
-2,49E+11;28;0;3;1;2;0;2;2;0;7
-2,49E+11;28;0;0;1;1;1;2;1;1;7
-2,49E+11;28;0;3;1;2;1;2;2;11;7
-2,49E+11;28;0;0;1;2;1;2;3;3;7
-2,49E+11;27;0;0;1;2;1;1;2;7;7
-2,49E+11;27;0;0;1;2;1;2;3;2;1
-2,49E+11;27;0;0;1;2;1;1;3;3;7
-2,49E+11;27;0;3;1;2;1;2;2;3;7
-2,49E+11;27;0;0;1;5;1;2;3;2;1
-2,49E+11;27;0;0;1;3;1;1;0;3;1
-2,49E+11;27;0;0;1;2;1;1;2;10;5
-2,49E+11;27;0;0;1;3;1;2;1;7;7
-2,49E+11;27;0;0;1;2;1;1;2;11;7
-2,49E+11;27;0;0;1;5;1;2;1;7;1
-2,49E+11;25;0;0;3;2;1;2;2;3;7
-2,49E+11;25;0;0;1;2;1;2;2;7;7
-2,49E+11;25;0;0;1;2;1;2;1;5;1
-2,49E+11;24;0;0;1;2;1;1;3;4;7
-2,49E+11;25;0;0;1;5;1;1;2;2;4
-2,49E+11;24;0;0;0;3;1;2;2;8;7
-2,49E+11;24;0;0;1;2;1;2;2;10;7
-2,49E+11;20;0;3;1;1;1;2;2;3;7
-2,49E+11;23;0;0;1;2;1;2;0;0;7
-2,49E+11;29;0;0;1;2;1;2;2;0;7
-2,49E+11;30;0;0;1;3;1;1;2;2;7
-2,49E+11;32;0;0;1;3;1;1;1;4;5
-2,49E+11;31;0;0;1;2;1;1;3;4;1
-2,49E+11;31;0;0;1;2;1;1;3;3;7
-2,49E+11;31;0;0;1;4;1;2;1;1;1
-2,49E+11;32;0;0;1;2;1;2;1;0;7
-2,49E+11;31;0;0;1;2;1;1;1;4;1
-2,49E+11;30;0;0;1;2;1;1;1;0;1
-2,49E+11;29;0;0;1;1;1;1;2;10;7
-2,49E+11;29;0;0;1;2;1;2;1;5;7
-2,49E+11;28;0;0;1;3;1;1;1;2;7
-2,49E+11;28;0;0;1;2;1;1;1;3;7
-2,49E+11;28;0;0;1;5;1;2;1;0;7
-2,49E+11;25;0;0;1;3;1;1;1;1;7
-2,49E+11;25;0;0;1;2;1;1;0;3;0
-2,49E+11;25;0;0;1;2;1;1;2;8;5
-2,49E+11;25;0;3;0;2;1;1;3;1;7
-2,49E+11;23;0;0;0;3;1;2;2;2;7
-2,49E+11;23;0;3;1;2;0;2;0;1;0
-2,49E+11;24;0;3;1;2;1;2;2;5;7
-2,49E+11;23;0;0;1;2;1;2;2;5;7
-2,49E+11;19;0;0;1;2;1;2;1;10;7
-2,49E+11;21;0;0;1;3;1;2;2;3;5
-2,49E+11;27;0;0;1;2;1;1;3;4;7
-2,49E+11;20;0;0;1;2;1;2;1;5;7
-2,49E+11;20;0;0;1;2;1;2;1;3;5
-2,49E+11;21;0;3;1;2;1;2;2;5;7
-2,49E+11;22;0;0;1;3;1;2;2;8;7
-2,49E+11;22;0;0;1;2;1;1;2;12;5
-2,49E+11;22;0;0;1;2;1;2;0;2;7
-2,49E+11;22;0;3;1;2;1;2;3;3;1
-2,49E+11;22;0;3;1;2;1;2;1;14;7
-2,49E+11;21;0;3;1;1;1;1;2;10;5
-2,49E+11;27;0;0;1;2;1;1;3;2;7
-2,49E+11;25;0;0;1;2;1;2;1;8;7
-2,49E+11;24;0;3;1;2;1;2;0;5;1
-2,49E+11;24;0;0;1;2;1;2;1;4;7
-2,49E+11;24;0;3;1;2;1;1;1;13;7
-2,49E+11;25;0;0;1;2;1;2;1;2;7
-2,49E+11;25;0;0;1;2;1;1;1;3;7
-2,49E+11;31;0;0;1;2;1;2;1;2;1
-2,49E+11;24;0;3;1;2;1;1;3;3;7
-2,49E+11;25;0;0;1;2;1;2;1;0;7
-2,49E+11;27;0;0;1;2;1;2;2;4;7
-2,49E+11;28;0;3;1;2;1;2;2;13;7
-2,49E+11;27;1;3;1;1;1;2;2;1;5
-2,49E+11;37;1;0;1;2;1;1;2;7;7
-2,49E+11;25;1;0;1;2;1;2;1;8;7
-2,49E+11;24;0;3;1;2;1;2;3;1;7
-2,49E+11;24;1;3;3;2;1;1;0;3;1
-2,49E+11;19;1;3;1;2;1;2;3;1;1
-2,49E+11;19;1;3;1;2;1;2;1;2;7
-2,49E+11;19;1;3;1;1;1;2;1;3;7
-2,49E+11;19;1;3;1;3;1;2;3;3;7
-2,49E+11;19;1;3;1;2;1;1;2;0;4
-2,49E+11;17;1;3;1;3;1;2;3;2;7
-2,49E+11;18;1;3;1;1;1;2;3;3;7
-2,49E+11;20;1;3;1;1;1;1;3;7;7
-2,49E+11;15;1;3;1;3;1;2;3;10;7
-2,49E+11;18;1;3;1;1;1;1;1;4;7
-2,49E+11;25;1;3;1;2;1;1;2;11;7
-2,49E+11;27;1;3;1;2;1;1;2;7;7
-2,49E+11;37;1;3;1;2;1;2;1;11;1
-2,49E+11;27;1;3;1;1;0;1;2;0;7
-2,49E+11;27;1;0;1;2;1;1;1;2;7
-2,49E+11;39;1;3;1;2;1;1;1;8;5
-2,49E+11;28;1;3;1;2;1;1;2;2;7
-2,49E+11;30;1;3;1;2;1;1;3;3;1
-2,49E+11;39;1;3;1;2;1;0;2;4;7
-2,49E+11;21;1;3;1;2;1;1;2;9;7
-2,49E+11;41;1;0;1;2;1;1;0;3;1
-2,49E+11;25;1;3;1;2;1;1;0;1;1
-2,49E+11;32;1;0;1;2;1;2;2;4;7
-2,49E+11;39;1;0;1;3;1;1;1;0;7
-2,49E+11;15;1;3;1;7;1;1;1;27;1
-2,49E+11;31;1;3;1;2;1;1;1;4;7
-2,49E+11;30;1;3;1;2;1;1;1;5;7
-2,49E+11;27;1;3;1;2;1;1;0;8;7
-2,49E+11;23;1;0;1;2;1;2;2;3;7
-2,49E+11;18;1;3;1;1;1;2;2;1;7
-2,49E+11;17;1;3;1;2;1;2;3;3;7
-2,49E+11;19;1;3;1;2;1;1;1;7;7
-2,49E+11;37;1;3;1;1;1;1;2;0;7
-2,49E+11;20;1;0;1;2;1;2;2;5;7
-2,49E+11;19;1;3;1;2;1;2;3;0;5
-2,49E+11;37;1;3;1;2;1;1;2;3;7
-2,49E+11;41;1;0;1;2;1;1;2;7;7
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;42;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;40;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Aborto;4;Complicaciones de aborto
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Complicaciones Hemorragicas
+2,49202E+11;41;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;13;Trastornos Hipertensivos
+2,49202E+11;43;Colombia;Excepcion;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;30;Trastornos Hipertensivos
+2,49202E+11;40;Colombia;Excepcion;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;44;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;39;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Sepsis de origen obstetrico
+2,49202E+11;39;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;6;Complicaciones Hemorragicas
+2,49202E+11;38;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Aborto;1;Complicaciones de aborto
+2,49202E+11;39;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;14;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;44;Colombia;Subsidiado;Otro;1;Si;Gran multípara (6 o más gestaciones);Aborto;2;Complicaciones de aborto
+2,49202E+11;41;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;41;Colombia;Contributivo;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;43;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;40;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;6;Complicaciones Hemorragicas
+2,49202E+11;39;Colombia;Contributivo;Otro;4;Si;Primigestante;Cesarea;2;Sepsis de origen obstetrico
+2,49202E+11;40;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;29;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Complicaciones Hemorragicas
+2,49202E+11;42;Colombia;Contributivo;Otro;3;Si;Primigestante;Aborto;3;Complicaciones Hemorragicas
+2,49202E+11;40;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Trastornos Hipertensivos
+2,49202E+11;41;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Otra causa
+2,49202E+11;42;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;41;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;5;Complicaciones Hemorragicas
+2,49202E+11;42;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;41;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;41;Colombia;Contributivo;Otro;3;Si;Primigestante;Aborto;21;Sepsis de origen no obstetrico
+2,49202E+11;40;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Trastornos Hipertensivos
+2,49202E+11;40;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;44;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Aborto;2;Complicaciones Hemorragicas
+2,49202E+11;38;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Excepcion;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;42;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;42;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;38;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;6;Complicaciones Hemorragicas
+2,49202E+11;47;Colombia;Contributivo;Otro;;Si;Primigestante;Cesarea;0;Complicaciones Hemorragicas
+2,49202E+11;40;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;9;Trastornos Hipertensivos
+2,49202E+11;40;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;40;Colombia;Contributivo;Otro;6;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Aafro colombiano;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Aborto;11;Complicaciones de aborto
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Subsidiado;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;38;Colombia;Subsidiado;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;4;Complicaciones Hemorragicas
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;7;Complicaciones Hemorragicas
+2,49202E+11;33;Colombia;Subsidiado;Otro;2;Si;Gran multípara (6 o más gestaciones);Cesarea;9;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Gran multípara (6 o más gestaciones);Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Aafro colombiano;1;Si;Primigestante;Parto;0;Enf. Preexistente que se complica
+2,49202E+11;25;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Subsidiado;Otro;2;Si;Primigestante;Aborto;7;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Subsidiado;Otro;1;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Contributivo;Otro;4;Si;Primigestante;Aborto;0;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Subsidiado;Otro;3;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;1;Complicaciones Hemorragicas
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;2;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Aborto;18;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;8;Otra causa
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Aafro colombiano;1;No;Multípara entre 2 a 5 gestaciones;Aborto;0;Complicaciones de aborto
+2,49202E+11;26;Colombia;Subsidiado;Aafro colombiano;1;Si;Primigestante;Parto;4;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;3;Si;Primigestante;Parto;44;Sepsis de origen obstetrico
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;3;Complicaciones Hemorragicas
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Sepsis de origen no obstetrico
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;2;Sepsis de origen pulmonar
+2,49202E+11;22;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;3;Sepsis de origen obstetrico
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;13;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;9;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Subsidiado;Otro;;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;5;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;9;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;4;Si;Primigestante;Cesarea;5;Complicaciones Hemorragicas
+2,49202E+11;22;Colombia;Contributivo;Otro;1;Si;Primigestante;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Subsidiado;Aafro colombiano;1;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;9;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Subsidiado;Otro;6;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Subsidiado;Otro;4;No;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;5;Complicaciones Hemorragicas
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Gran multípara (6 o más gestaciones);Parto;4;Complicaciones Hemorragicas
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Subsidiado;Aafro colombiano;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;11;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;1;Complicaciones Hemorragicas
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Aafro colombiano;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Subsidiado;Otro;1;Si;Primigestante;Cesarea;4;Complicaciones Hemorragicas
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;1;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;6;Sepsis de origen obstetrico
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Sepsis de origen obstetrico
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;No;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;1;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;6;Otra causa
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;24;Sepsis de origen no obstetrico
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Primigestante;Parto;6;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;1;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;6;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;0;Sepsis de origen obstetrico
+2,49202E+11;33;Colombia;Contributivo;Otro;4;Si;Primigestante;Continua embarazada;0;Sepsis de origen obstetrico
+2,49202E+11;32;Colombia;Contributivo;Otro;4;Si;Primigestante;Parto;2;Otra causa
+2,49202E+11;29;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;28;Colombia;Contributivo;Otro;4;Si;Primigestante;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;9;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;8;Sepsis de origen obstetrico
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Subsidiado;Aafro colombiano;1;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;17;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;13;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Complicaciones Hemorragicas
+2,49202E+11;21;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;15;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;34;Colombia;Contributivo;Otro;4;Si;Primigestante;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;8;Sepsis de origen obstetrico
+2,49202E+11;32;Colombia;Contributivo;Otro;6;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Indeterminado;Otro;;Si;Primigestante;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Subsidiado;Aafro colombiano;;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Subsidiado;Otro;2;No;Primigestante;Parto;0;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;4;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;12;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;22;Colombia;Subsidiado;Aafro colombiano;2;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;4;Complicaciones Hemorragicas
+2,49202E+11;18;Colombia;Subsidiado;Otro;1;Si;Primigestante;Parto;1;Complicaciones Hemorragicas
+2,49202E+11;30;Colombia;Contributivo;Aafro colombiano;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;374;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Subsidiado;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;9;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Subsidiado;Aafro colombiano;2;Si;Primigestante;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;16;Colombia;Subsidiado;Otro;1;No;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;2;Complicaciones Hemorragicas
+2,49202E+11;26;Colombia;Excepcion;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;5;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;36;Colombia;Contributivo;Otro;6;Si;Primigestante;Cesarea;0;Complicaciones de aborto
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;43;Colombia;Subsidiado;Otro;3;No;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Contributivo;Otro;;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;7;Complicaciones Hemorragicas
+2,49202E+11;18;Colombia;Subsidiado;Aafro colombiano;1;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;28;Trastornos Hipertensivos
+2,49202E+11;15;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;3;Otra causa
+2,49202E+11;31;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Sepsis de origen obstetrico
+2,49202E+11;19;Colombia;Subsidiado;Otro;3;Si;Primigestante;Parto;1;Complicaciones Hemorragicas
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Excepcion;Aafro colombiano;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Subsidiado;Aafro colombiano;1;Si;Primigestante;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;4;Complicaciones Hemorragicas
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Subsidiado;Aafro colombiano;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Subsidiado;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Enf. Preexistente que se complica
+2,49202E+11;27;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;6;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Subsidiado;Otro;2;Si;Primigestante;Aborto;8;Sepsis de origen obstetrico
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;15;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;1;Complicaciones Hemorragicas
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Sepsis de origen obstetrico
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;3;No;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Complicaciones Hemorragicas
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;1;Otra causa
+2,49202E+11;27;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;11;Sepsis de origen obstetrico
+2,49202E+11;27;Colombia;Contributivo;Otro;6;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;4;Si;Primigestante;Aborto;2;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;26;Colombia;Contributivo;Otro;;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Sepsis de origen obstetrico
+2,49202E+11;25;Colombia;Subsidiado;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Subsidiado;Otro;1;No;Primigestante;Aborto;0;Complicaciones de aborto
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;6;Otra causa
+2,49202E+11;23;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;3;Si;Primigestante;Parto;0;Sepsis de origen obstetrico
+2,49202E+11;22;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Subsidiado;Otro;3;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;18;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;5;Sepsis de origen no obstetrico
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;369;Complicaciones Hemorragicas
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;;Si;Primigestante;Aborto;5;Complicaciones de aborto
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;5;Sepsis de origen obstetrico
+2,49202E+11;19;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;11;Trastornos Hipertensivos
+2,49202E+11;16;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Complicaciones Hemorragicas
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;16;Colombia;Subsidiado;Otro;3;Si;Primigestante;Aborto;2;Complicaciones de aborto
+2,49202E+11;25;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Sepsis de origen obstetrico
+2,49202E+11;25;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Aborto;2;Complicaciones de aborto
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;18;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;1;Sepsis de origen obstetrico
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Subsidiado;Aafro colombiano;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;9;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Subsidiado;Otro;1;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;17;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;2;Sepsis de origen obstetrico
+2,49202E+11;17;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;16;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;43;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Complicaciones Hemorragicas
+2,49202E+11;17;Colombia;Subsidiado;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;23;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Enf. Preexistente que se complica
+2,49202E+11;27;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;10;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;9;Enf. Preexistente que se complica
+2,49202E+11;27;Colombia;Contributivo;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;43;Otra causa
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Subsidiado;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Sepsis de origen no obstetrico
+2,49202E+11;35;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;6;Otra causa
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;22;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;No asegurado;Otro;6;Si;Primigestante;Aborto;1;Complicaciones de aborto
+2,49202E+11;18;Colombia;Subsidiado;Otro;;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;6;Complicaciones Hemorragicas
+2,49202E+11;15;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;3;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;8;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Subsidiado;Otro;;Si;Multípara entre 2 a 5 gestaciones;Aborto;7;Enf. Preexistente que se complica
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;7;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;10;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;3;Si;Primigestante;Parto;0;Sepsis de origen obstetrico
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;34;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;15;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;17;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;9;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Trastornos Hipertensivos
+2,49202E+11;18;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;0;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;10;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Sepsis de origen obstetrico
+2,49202E+11;27;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;No asegurado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;10;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;39;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Otra causa
+2,49202E+11;27;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;9;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Complicaciones Hemorragicas
+2,49202E+11;36;Colombia;Contributivo;Otro;4;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;36;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Complicaciones Hemorragicas
+2,49202E+11;36;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Sepsis de origen obstetrico
+2,49202E+11;35;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;4;Sepsis de origen no obstetrico
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Complicaciones Hemorragicas
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Complicaciones Hemorragicas
+2,49202E+11;37;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;6;Complicaciones Hemorragicas
+2,49202E+11;35;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Subsidiado;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Complicaciones Hemorragicas
+2,49202E+11;36;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;10;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Contributivo;Aafro colombiano;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;36;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;37;Colombia;Subsidiado;Otro;2;No;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Complicaciones de aborto
+2,49202E+11;35;Colombia;Contributivo;Otro;5;Si;Primigestante;Cesarea;14;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;4;Si;Primigestante;Continua embarazada;2;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;19;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;9;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;10;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;17;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Aborto;1;Complicaciones de aborto
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Raizal;4;Si;Primigestante;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;6;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;20;Sepsis de origen obstetrico
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Subsidiado;Otro;2;No;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Complicaciones de aborto
+2,49202E+11;33;Colombia;Subsidiado;Aafro colombiano;1;Si;Multípara entre 2 a 5 gestaciones;Parto;9;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Subsidiado;Aafro colombiano;4;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Subsidiado;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Aborto;2;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Contributivo;Otro;3;Si;Primigestante;Parto;0;Sepsis de origen no obstetrico
+2,49202E+11;29;Colombia;Contributivo;Aafro colombiano;3;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;4;Si;Primigestante;Parto;6;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;5;Sepsis de origen no obstetrico
+2,49202E+11;27;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;4;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;5;Si;Primigestante;Parto;1;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;35;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;371;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;34;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Subsidiado;Otro;1;Si;Gran multípara (6 o más gestaciones);Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;1;Sepsis de origen obstetrico
+2,49202E+11;32;Colombia;Contributivo;Aafro colombiano;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Sepsis de origen obstetrico
+2,49202E+11;32;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Contributivo;Otro;1;Si;Primigestante;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;5;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;5;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;5;Si;Gran multípara (6 o más gestaciones);Continua embarazada;2;Sepsis de origen obstetrico
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;10;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Sepsis de origen obstetrico
+2,49202E+11;29;Colombia;Contributivo;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;1;Sepsis de origen obstetrico
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;0;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;4;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;5;Si;Primigestante;Cesarea;4;Otra causa
+2,49202E+11;27;Colombia;Subsidiado;Otro;5;Si;Primigestante;Cesarea;0;Enf. Preexistente que se complica
+2,49202E+11;26;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;25;Colombia;Contributivo;Otro;;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;10;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Subsidiado;Otro;2;No;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;1;Complicaciones Hemorragicas
+2,49202E+11;33;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;6;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;6;Complicaciones Hemorragicas
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;5;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Subsidiado;Otro;4;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Sepsis de origen obstetrico
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Enf. Preexistente que se complica
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Subsidiado;Otro;2;No;Primigestante;Parto;0;Sepsis de origen pulmonar
+2,49202E+11;28;Colombia;Subsidiado;Otro;2;No;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;1;Si;Primigestante;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;27;Colombia;Contributivo;Otro;5;Si;Primigestante;Parto;2;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Complicaciones Hemorragicas
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;10;Sepsis de origen obstetrico
+2,49202E+11;26;Colombia;Contributivo;Otro;3;Si;Primigestante;Cesarea;6;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;5;Si;Primigestante;Cesarea;6;Complicaciones Hemorragicas
+2,49202E+11;25;Colombia;Contributivo;Rom gitano;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;5;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;5;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Sepsis de origen no obstetrico
+2,49202E+11;24;Colombia;Contributivo;Aafro colombiano;3;Si;Primigestante;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;10;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Primigestante;Aborto;0;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;30;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;32;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Sepsis de origen obstetrico
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Complicaciones Hemorragicas
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;4;Si;Primigestante;Cesarea;1;Complicaciones Hemorragicas
+2,49202E+11;32;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Complicaciones Hemorragicas
+2,49202E+11;30;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Complicaciones Hemorragicas
+2,49202E+11;29;Colombia;Contributivo;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;10;Trastornos Hipertensivos
+2,49202E+11;29;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Contributivo;Otro;5;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;1;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Complicaciones de aborto
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;8;Sepsis de origen obstetrico
+2,49202E+11;25;Colombia;Subsidiado;Aafro colombiano;2;Si;Multípara entre 2 a 5 gestaciones;Parto;1;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Aafro colombiano;3;Si;Primigestante;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Subsidiado;Otro;2;No;Primigestante;Aborto;1;Complicaciones de aborto
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;23;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;19;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;10;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;3;Sepsis de origen obstetrico
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;4;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;20;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;3;Sepsis de origen obstetrico
+2,49202E+11;21;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;3;Si;Primigestante;Continua embarazada;8;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;12;Sepsis de origen obstetrico
+2,49202E+11;22;Colombia;Contributivo;Otro;2;Si;Primigestante;Aborto;2;Trastornos Hipertensivos
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Primigestante;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;22;Colombia;Subsidiado;Otro;2;Si;Primigestante;Cesarea;14;Trastornos Hipertensivos
+2,49202E+11;21;Colombia;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;10;Sepsis de origen obstetrico
+2,49202E+11;27;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;2;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;Si;Primigestante;Aborto;5;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;13;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;31;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;2;Complicaciones Hemorragicas
+2,49202E+11;24;Colombia;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Trastornos Hipertensivos
+2,49202E+11;25;Colombia;Contributivo;Otro;2;Si;Primigestante;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;26;Colombia;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;28;Colombia;Subsidiado;Otro;2;Si;Primigestante;Continua embarazada;13;Trastornos Hipertensivos
+2,49202E+11;26;Venezuela;No asegurado;Otro;1;Si;Primigestante;Continua embarazada;1;Sepsis de origen obstetrico
+2,49202E+11;36;Venezuela;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
+2,49202E+11;25;Venezuela;Contributivo;Otro;2;Si;Primigestante;Cesarea;8;Trastornos Hipertensivos
+2,49202E+11;24;Colombia;No asegurado;Otro;2;Si;Primigestante;Parto instrumentado;1;Trastornos Hipertensivos
+2,49202E+11;24;Venezuela;No asegurado;Rom gitano;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Complicaciones Hemorragicas
+2,49202E+11;19;Venezuela;No asegurado;Otro;2;Si;Primigestante;Parto;1;Complicaciones Hemorragicas
+2,49202E+11;19;Venezuela;No asegurado;Otro;2;Si;Primigestante;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;19;Venezuela;No asegurado;Otro;1;Si;Primigestante;Cesarea;3;Trastornos Hipertensivos
+2,49202E+11;19;Venezuela;No asegurado;Otro;3;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;19;Venezuela;No asegurado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Sepsis de origen no obstetrico
+2,49202E+11;17;Venezuela;No asegurado;Otro;3;Si;Primigestante;Parto;2;Trastornos Hipertensivos
+2,49202E+11;18;Venezuela;No asegurado;Otro;1;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;20;Venezuela;No asegurado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Parto;6;Trastornos Hipertensivos
+2,49202E+11;15;Venezuela;No asegurado;Otro;3;Si;Primigestante;Parto;10;Trastornos Hipertensivos
+2,49202E+11;18;Venezuela;No asegurado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;25;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;11;Trastornos Hipertensivos
+2,49202E+11;27;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;6;Trastornos Hipertensivos
+2,49202E+11;37;Venezuela;Subsidiado;Otro;2;Si;Primigestante;Cesarea;11;Complicaciones Hemorragicas
+2,49202E+11;27;Venezuela;Subsidiado;Otro;1;No;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;27;Venezuela;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;2;Trastornos Hipertensivos
+2,49202E+11;39;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;8;Sepsis de origen obstetrico
+2,49202E+11;28;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;2;Trastornos Hipertensivos
+2,49202E+11;30;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Parto;3;Complicaciones Hemorragicas
+2,49202E+11;39;Venezuela;Subsidiado;Otro;2;Si;Gran multípara (6 o más gestaciones);Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;21;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;9;Trastornos Hipertensivos
+2,49202E+11;41;Venezuela;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;3;Complicaciones Hemorragicas
+2,49202E+11;25;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;1;Complicaciones Hemorragicas
+2,49202E+11;32;Venezuela;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;4;Trastornos Hipertensivos
+2,49202E+11;39;Venezuela;Contributivo;Otro;3;Si;Multípara entre 2 a 5 gestaciones;Cesarea;0;Trastornos Hipertensivos
+2,49202E+11;15;Venezuela;Subsidiado;Otro;6;Si;Multípara entre 2 a 5 gestaciones;Cesarea;27;Complicaciones Hemorragicas
+2,49202E+11;31;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;4;Trastornos Hipertensivos
+2,49202E+11;30;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;5;Trastornos Hipertensivos
+2,49202E+11;26;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Aborto;8;Trastornos Hipertensivos
+2,49202E+11;23;Venezuela;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;18;Venezuela;Subsidiado;Otro;1;Si;Primigestante;Continua embarazada;1;Trastornos Hipertensivos
+2,49202E+11;17;Venezuela;Subsidiado;Otro;2;Si;Primigestante;Parto;3;Trastornos Hipertensivos
+2,49202E+11;19;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Cesarea;7;Trastornos Hipertensivos
+2,49202E+11;36;Venezuela;Subsidiado;Otro;1;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;0;Trastornos Hipertensivos
+2,49202E+11;20;Venezuela;Contributivo;Otro;2;Si;Primigestante;Continua embarazada;5;Trastornos Hipertensivos
+2,49202E+11;19;Venezuela;Subsidiado;Otro;2;Si;Primigestante;Parto;0;Sepsis de origen obstetrico
+2,49202E+11;37;Venezuela;Subsidiado;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;3;Trastornos Hipertensivos
+2,49202E+11;41;Venezuela;Contributivo;Otro;2;Si;Multípara entre 2 a 5 gestaciones;Continua embarazada;7;Trastornos Hipertensivos
